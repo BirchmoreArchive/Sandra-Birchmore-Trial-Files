@@ -4,17 +4,17 @@
 
 A public reading archive for chronological courtroom reporting by **Grant Smith Ellis (GSE)** from *United States v. Matthew Farwell*, the federal prosecution arising from the death of Sandra Birchmore.
 
-> **Important:** These pages are **not official court transcripts**. They are a reading-oriented reconstruction of contemporaneous courtroom reporting. Original reporting remains attributable to Grant Smith Ellis; this archive is intended to make that reporting easier to navigate chronologically and preserve source provenance.
+> **Important:** These documents are **not official court transcripts**. They are reading-oriented reconstructions of contemporaneous courtroom reporting. Original reporting remains attributable to Grant Smith Ellis; this archive is intended to make that reporting easier to navigate chronologically and preserve source provenance.
 
 ### Trial days
 
-Publication files will be linked here as they are uploaded.
+- [Day 1 — October 9, 2026](./gse-transcripts/GSE_Court_Reporting_Day_01_October_9_2026.docx)
+- [Day 2 — October 13, 2026](./gse-transcripts/GSE_Court_Reporting_Day_02_October_13_2026.docx)
+- [Day 3 — October 14, 2026](./gse-transcripts/GSE_Court_Reporting_Day_03_October_14_2026.docx)
+- [Day 4 — October 15, 2026](./gse-transcripts/GSE_Court_Reporting_Day_04_October_15_2026.docx)
+- [Day 5 — October 16, 2026](./gse-transcripts/GSE_Court_Reporting_Day_05_October_16_2026.docx)
 
-- Day 1 — October 9, 2026
-- Day 2 — October 13, 2026
-- Day 3 — October 14, 2026
-- Day 4 — October 15, 2026
-- Day 5 — October 16, 2026
+[View the GSE transcript index →](./gse-transcripts/README.md)
 
 ## Support the reporting
 
