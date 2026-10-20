@@ -1,0 +1,59 @@
+name: Submit additional source material
+description: Point us to relevant public source material that may supplement or improve the archive.
+title: "[Source] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to identify potentially relevant source material that is not currently incorporated into the archive. Submission does not mean the material will be added; sources are reviewed for relevance, provenance, accuracy, and any applicable publication restrictions.
+  - type: dropdown
+    id: source_type
+    attributes:
+      label: Type of source
+      options:
+        - Court filing or order
+        - Public exhibit or court-released material
+        - Reporter courtroom coverage
+        - Public video or audio
+        - Government or official source
+        - Other public source
+    validations:
+      required: true
+  - type: input
+    id: court_day
+    attributes:
+      label: Related court day or date
+      placeholder: "Example: October 19, 2026"
+  - type: input
+    id: source_url
+    attributes:
+      label: Public source URL
+      description: Link to the original or most authoritative public source when possible.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What is this material?
+      description: Briefly identify the source and what it contains.
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Why is it relevant to the archive?
+      description: Explain what it may add, clarify, or correct.
+    validations:
+      required: true
+  - type: textarea
+    id: provenance
+    attributes:
+      label: Source / provenance notes
+      description: If useful, explain who created or published it and how you located it.
+  - type: checkboxes
+    id: public_material
+    attributes:
+      label: Publication check
+      options:
+        - label: To the best of my knowledge, this is public material and I have not included private personal information in this submission.
+          required: true
