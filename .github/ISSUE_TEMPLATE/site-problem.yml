@@ -1,0 +1,64 @@
+name: Report a website problem
+description: Report a broken link, failed download, display problem, or navigation issue on the public archive.
+title: "[Site] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem with the public archive. Please include enough detail for us to reproduce it.
+  - type: dropdown
+    id: problem_type
+    attributes:
+      label: What went wrong?
+      options:
+        - Broken link
+        - File will not open or download
+        - Page or formatting problem
+        - Navigation problem
+        - Missing file or page
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Where did it happen?
+      description: Paste the page URL or identify the button/file you were using.
+      placeholder: "Example: Day 6 — Download Word"
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: What happened?
+      description: Describe what you saw, including any error message.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+      description: Briefly describe the expected result.
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      options:
+        - Chrome
+        - Microsoft Edge
+        - Firefox
+        - Safari
+        - Other / unknown
+  - type: input
+    id: device
+    attributes:
+      label: Device or operating system
+      placeholder: "Example: Windows 11 desktop, iPhone, Android"
+  - type: upload
+    id: screenshot
+    attributes:
+      label: Screenshot (optional)
+      description: If useful, attach a screenshot of the problem. Please remove any private information first.
+    validations:
+      required: false
+      accept: ".png,.jpg,.jpeg,.gif,.webp"
