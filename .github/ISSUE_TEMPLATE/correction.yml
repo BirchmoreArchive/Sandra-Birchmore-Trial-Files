@@ -1,0 +1,68 @@
+name: Report a correction
+description: Report a possible factual, transcription, chronology, attribution, or document error in the archive.
+title: "[Correction] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve the archive. Please identify the material as precisely as you can. Submissions are reviewed against available source material before any change is made.
+  - type: dropdown
+    id: correction_type
+    attributes:
+      label: Type of correction
+      options:
+        - Factual error
+        - Transcription or quotation
+        - Chronology or timestamp
+        - Attribution or source identification
+        - Missing or incorrect content
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: court_day
+    attributes:
+      label: Court day or date
+      description: If known, identify the trial day or date.
+      placeholder: "Example: Day 6 — October 19, 2026"
+  - type: input
+    id: document_location
+    attributes:
+      label: Document and location
+      description: Identify the file and, if possible, the page, timestamp, section, or quoted phrase.
+      placeholder: "Example: Day 6 PDF, page 14, 11:25 AM ET"
+    validations:
+      required: true
+  - type: textarea
+    id: current_content
+    attributes:
+      label: What currently appears in the archive?
+      description: Quote or describe the material you believe should be reviewed.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_correction
+    attributes:
+      label: What should it say or show instead?
+      description: Describe the proposed correction as specifically as possible.
+    validations:
+      required: true
+  - type: textarea
+    id: supporting_source
+    attributes:
+      label: Supporting source
+      description: Provide a link, citation, screenshot description, court filing, reporter post, or other source supporting the correction. Do not post private personal information.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Anything else that would help evaluate the correction.
+  - type: checkboxes
+    id: acknowledgement
+    attributes:
+      label: Acknowledgement
+      options:
+        - label: I understand that submission does not guarantee a change; proposed corrections will be checked against available source material.
+          required: true
