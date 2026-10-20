@@ -34,6 +34,10 @@ The archive may later expand to include publicly released trial files, exhibits,
 
 Factual corrections to the archive can be submitted through this repository's Issues page. Corrections should identify the trial day and, where possible, the specific entry or source involved.
 
+## Archive administration
+
+- [Cloudflare Web Analytics dashboard](https://dash.cloudflare.com/) — aggregate traffic for `birchmorearchive.github.io`
+
 ## Attribution
 
 Courtroom reporting attributed to Grant Smith Ellis remains his work. Editorial organization, navigation, source annotation, and archive structure are separate from the underlying reporting.
