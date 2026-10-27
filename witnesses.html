@@ -1,5 +1,6 @@
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/>
 <title>Witness Guide | Sandra Birchmore Trial Files</title>
 <style>
 :root{--ink:#1c1c1c;--muted:#666;--line:#d8d8d8;--paper:#fff;--soft:#f6f6f6}
@@ -11,229 +12,276 @@ h1{margin:.1rem 0 .35rem;font-size:clamp(2rem,5vw,3.3rem);line-height:1.05} .dec
 th{text-align:left;background:var(--soft);border-bottom:1px solid var(--line);padding:11px 12px;font-size:.88rem} td{vertical-align:top;padding:12px;border-bottom:1px solid var(--line)}
 tr:last-child td{border-bottom:0} .witness{width:18%} .dates{width:16%;white-space:nowrap} td:nth-child(2){width:23%} .note{margin-top:18px;color:var(--muted);font-size:.9rem;max-width:930px}
 @media(max-width:700px){main{padding:22px 12px 40px}.controls{align-items:flex-start;flex-direction:column}}
+
+section{margin:30px 0 0} h2{margin:0 0 10px;font-size:1.35rem;line-height:1.2}
+.section-deck{margin:0 0 14px;color:var(--muted);max-width:930px;font-size:.95rem}
+.compact-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px}.compact-wrap table{min-width:650px}
+.counsel-table td:nth-child(1){width:18%}.counsel-table td:nth-child(2){width:30%}.counsel-table td:nth-child(3){width:auto}
+.jump-panel{border:1px solid var(--line);border-radius:8px;padding:14px 16px;background:var(--soft)}
+.jump-panel .controls{margin:0 0 12px}.jump-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px 20px;font-size:.92rem}
+.jump-group{min-width:0}.jump-letter{display:inline-block;min-width:1.2rem;font-weight:700}.jump-group a{white-space:nowrap}
+.other-table .person-name{width:20%}.other-table .refs{width:25%}.other-table td:nth-child(2){width:auto}
+.person-row:target td{background:#fffbea} .person-row{scroll-margin-top:18px}
+.editorial-note{margin:12px 0 0;padding:12px 14px;border-left:3px solid #aaa;background:var(--soft);font-size:.92rem;max-width:930px}
+@media(max-width:850px){.jump-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){.jump-grid{grid-template-columns:1fr}.jump-panel{padding:12px}.counsel-table,.other-table{min-width:700px}}
+
+.counsel-compact{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--line);border-radius:8px;overflow:hidden;margin-top:8px}
+.counsel-col{padding:10px 14px}
+.counsel-col+ .counsel-col{border-left:1px solid var(--line)}
+.counsel-head{font-weight:700;color:var(--ink);margin-bottom:5px}
+.counsel-name{padding:2px 0}
+.counsel-note{font-size:.84rem;color:var(--muted);font-weight:400;line-height:1.3;margin-top:1px}
+.editorial-footnote{font-size:.92rem;color:var(--muted);margin:10px 0 0;line-height:1.45}
+sup{font-size:.72em;vertical-align:super}
+@media(max-width:700px){.counsel-compact{grid-template-columns:1fr}.counsel-col+ .counsel-col{border-left:0;border-top:1px solid var(--line)}}
+
 </style></head><body><main>
 <nav><a href="index.html">← Back to daily reports</a></nav>
 <h1>Witness Guide</h1>
-<p class="deck">A quick-reference index of witnesses appearing in the Grant Smith Ellis court-reporting archive. “Topics addressed” is descriptive only and is not intended to characterize the importance, credibility, or weight of any testimony.</p>
-<div class="controls"><input id="filter" type="search" placeholder="Search witness, role, date, or topic…" aria-label="Search witness guide"><span class="count" id="count">36 witnesses</span></div>
-<div class="table-wrap"><table id="witness-table"><thead><tr><th>Witness</th><th>Role / affiliation</th><th>Testified</th><th>Topics addressed</th></tr></thead><tbody><tr>
+<p class="deck">A quick-reference guide to witnesses and other people appearing in or relevant to the Grant Smith Ellis court-reporting archive. Descriptions are for orientation only and are not intended to characterize the importance, credibility, or weight of testimony or evidence.</p><section id="counsel"><h2>Counsel</h2>
+<div class="counsel-compact">
+  <div class="counsel-col">
+    <div class="counsel-head">DOJ</div>
+    <div class="counsel-name person-row" id="person-elizabeth-c-riley"><span class="person-name">Elizabeth C. Riley</span></div>
+    <div class="counsel-name person-row" id="person-torey-b-cummings"><span class="person-name">Torey B. Cummings</span></div>
+    <div class="counsel-name person-row" id="person-brian-a-fogerty"><span class="person-name">Brian A. Fogerty</span></div>
+    <div class="counsel-name person-row" id="person-leah-b-foley"><span class="person-name">Leah B. Foley</span><div class="counsel-note">U.S. Attorney for the District of Massachusetts · signatory on filings</div></div>
+  </div>
+  <div class="counsel-col">
+    <div class="counsel-head">Defense</div>
+    <div class="counsel-name person-row" id="person-kimberly-c-stevens"><span class="person-name">Kimberly C. Stevens (NC)</span></div>
+    <div class="counsel-name person-row" id="person-joanne-m-daley"><span class="person-name">Joanne M. Daley</span></div>
+  </div>
+</div></section><section id="quick-jump"><h2>Quick Jump — Find a Person</h2><p class="section-deck">Names are alphabetized by surname. Select any name to jump directly to that entry, regardless of section.</p><div class="jump-panel"><div class="controls"><input aria-label="Search people in guide" id="filter" placeholder="Search name, role, date, or topic…" type="search"/><span class="count" id="count">36 witnesses · 58 people</span></div><div class="jump-grid"><div class="jump-group"><span class="jump-letter">A</span> — <a href="#person-diala-alkhalil-lmhc">Diala Alkhalil, LMHC</a></div><div class="jump-group"><span class="jump-letter">B</span> — <a href="#person-michael-baden">Dr. Michael Baden</a> · <a href="#person-daniel-barber">Daniel Barber</a> · <a href="#person-sandra-barrett">Sandra Barrett</a> · <a href="#person-christopher-beckstrom">Christopher Beckstrom</a> · <a href="#person-denise-birchmore">Denise Birchmore</a> · <a href="#person-yuriy-yuri-bukhenik">Yuriy “Yuri” Bukhenik</a></div><div class="jump-group"><span class="jump-letter">C</span> — <a href="#person-cheryl-carlson">Cheryl Carlson</a> · <a href="#person-rebecca-chandler">Rebecca Chandler</a> · <a href="#person-heather-cheever">Detective Heather Cheever</a> · <a href="#person-ensley-cotard">Officer Ensley Cotard</a> · <a href="#person-lindsey-crean">Lindsey Crean</a> · <a href="#person-torey-b-cummings">Torey B. Cummings</a></div><div class="jump-group"><span class="jump-letter">D</span> — <a href="#person-joanne-m-daley">Joanne M. Daley</a> · <a href="#person-leslie-davis">Leslie Davis</a> · <a href="#person-robert-devine">Robert Devine</a> · <a href="#person-matthew-dunne">Trooper Matthew Dunne</a> · <a href="#person-elizabeth-duval">Elizabeth Duval</a></div><div class="jump-group"><span class="jump-letter">F</span> — <a href="#person-john-fanning">John Fanning</a> · <a href="#person-william-billy-farwell">William “Billy” Farwell</a> · <a href="#person-james-fitton">James Fitton</a> · <a href="#person-brian-a-fogerty">Brian A. Fogerty</a> · <a href="#person-leah-b-foley">Leah B. Foley</a></div><div class="jump-group"><span class="jump-letter">G</span> — <a href="#person-claire-gaudet">Claire Gaudet</a> · <a href="#person-nicholas-guarino">Nicholas Guarino</a></div><div class="jump-group"><span class="jump-letter">H</span> — <a href="#person-joshua-heal">Joshua Heal</a> · <a href="#person-donyea-holloway">Donyea Holloway</a> · <a href="#person-brian-holmes">Brian Holmes</a></div><div class="jump-group"><span class="jump-letter">K</span> — <a href="#person-jessica-katz">Jessica Katz</a> · <a href="#person-heidi-kelsch">Special Agent Heidi Kelsch</a> · <a href="#person-william-kilroy">William Kilroy</a> · <a href="#person-robert-kuhn">Sgt. Robert Kuhn</a></div><div class="jump-group"><span class="jump-letter">L</span> — <a href="#person-kim-lydon">Kim Lydon</a></div><div class="jump-group"><span class="jump-letter">M</span> — <a href="#person-maria-del-mar-capo-martinez">Dr. María del Mar Capó Martínez</a> · <a href="#person-samantha-mccue">Samantha McCue</a> · <a href="#person-shauna-mcgrath">Shauna McGrath</a> · <a href="#person-alice-m-mckain">Alice M. McKain</a> · <a href="#person-donna-mcnamara">Donna McNamara</a> · <a href="#person-michael-w-morrissey">Michael W. Morrissey</a></div><div class="jump-group"><span class="jump-letter">O</span> — <a href="#person-sarah-odams">Sarah Odams</a></div><div class="jump-group"><span class="jump-letter">P</span> — <a href="#person-mackenzie-palma">Mackenzie Palma</a> · <a href="#person-julia-perlin">Julia Perlin</a> · <a href="#person-jason-pickard">Jason Pickard</a> · <a href="#person-erin-porter">Erin Porter</a></div><div class="jump-group"><span class="jump-letter">R</span> — <a href="#person-elizabeth-c-riley">Elizabeth C. Riley</a> · <a href="#person-lisa-rocchio">Dr. Lisa Rocchio</a></div><div class="jump-group"><span class="jump-letter">S</span> — <a href="#person-darlene-smith">Darlene Smith</a> · <a href="#person-william-smock">Dr. William Smock</a> · <a href="#person-sarah-sproul">Sarah Sproul</a> · <a href="#person-kimberly-c-stevens">Kimberly C. Stevens (NC)</a></div><div class="jump-group"><span class="jump-letter">T</span> — <a href="#person-brian-tully">Brian Tully</a></div><div class="jump-group"><span class="jump-letter">V</span> — <a href="#person-priyanka-venkataraman">Dr. Priyanka Venkataraman</a> · <a href="#person-carlos-verissimo">Carlos Verissimo</a></div><div class="jump-group"><span class="jump-letter">W</span> — <a href="#person-stephanie-waite">Stephanie Waite</a> · <a href="#person-karlie-williams">Karlie Williams</a> · <a href="#person-barbara-barb-wright">Barbara “Barb” Wright</a></div><div class="jump-group"><span class="jump-letter">Z</span> — <a href="#person-sheanna-isabel-zbinski">Sheanna Isabel Zbinski</a> · <a href="#person-alicia-zimmerman">Alicia Zimmerman</a></div></div></div></section><section id="witnesses"><h2>Witnesses</h2><p class="section-deck">Witnesses who have appeared in the trial through October 26, 2026.</p><div class="table-wrap"><table id="witness-table"><thead><tr><th>Witness</th><th>Role / affiliation</th><th>Testified</th><th>Topics addressed</th></tr></thead><tbody><tr class="person-row" id="person-diala-alkhalil-lmhc">
 <td class="witness"><strong>Diala Alkhalil, LMHC</strong></td>
 <td>Sandra Birchmore’s longtime mental-health counselor</td>
-<td class="dates"><a href="GSE_Court_Reporting_Day_10_October_23_2026.pdf">October 23, 2026</a><br><a href="GSE_Court_Reporting_Day_11_October_26_2026.pdf">October 26, 2026</a></td>
+<td class="dates"><a href="GSE_Court_Reporting_Day_10_October_23_2026.pdf">October 23, 2026</a><br/><a href="GSE_Court_Reporting_Day_11_October_26_2026.pdf">October 26, 2026</a></td>
 <td>Treatment history; anxiety, grief, depression and suicide-risk assessments; pregnancy; relationship disclosures; final sessions and communications.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-daniel-barber">
 <td class="witness"><strong>Daniel Barber</strong></td>
 <td>Stoughton Police detective</td>
-<td class="dates"><a href="GSE_Court_Reporting_Day_08_October_21_2026.pdf">October 21, 2026</a><br><a href="GSE_Court_Reporting_Day_09_October_22_2026.pdf">October 22, 2026</a></td>
+<td class="dates"><a href="GSE_Court_Reporting_Day_08_October_21_2026.pdf">October 21, 2026</a><br/><a href="GSE_Court_Reporting_Day_09_October_22_2026.pdf">October 22, 2026</a></td>
 <td>Farwell’s workplace behavior and demeanor; communications before and after Birchmore’s death; Stoughton Police context.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-sandra-barrett">
 <td class="witness"><strong>Sandra Barrett</strong></td>
 <td>Stoughton Police detective</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_08_October_21_2026.pdf">October 21, 2026</a></td>
 <td>Farwell’s workplace behavior and demeanor in early 2021; conversations about a woman outside his marriage; Stoughton Police context.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-christopher-beckstrom">
 <td class="witness"><strong>Christopher Beckstrom</strong></td>
 <td>FBI master digital forensics examiner, New England Regional Computer Forensics Laboratory</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_05_October_16_2026.pdf">October 16, 2026</a></td>
 <td>Forensic review of phones and laptop data; Google/search artifacts; communications and other digital evidence; device handling and extraction issues.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-maria-del-mar-capo-martinez">
 <td class="witness"><strong>Dr. María del Mar Capó Martínez</strong></td>
 <td>Forensic pathologist, Massachusetts Office of the Chief Medical Examiner</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_11_October_26_2026.pdf">October 26, 2026</a></td>
 <td>2021 autopsy; information available to the OCME; cause and manner of death; later review of the original suicide determination; autopsy findings and evidence collection.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-cheryl-carlson">
 <td class="witness"><strong>Cheryl Carlson</strong></td>
 <td>Former assistant principal, Sharon Public Schools</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_02_October_13_2026.pdf">October 13, 2026</a></td>
 <td>Birchmore’s work as an instructional assistant; pregnancy and demeanor; attendance and workplace communications before her death.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-rebecca-chandler">
 <td class="witness"><strong>Rebecca Chandler</strong></td>
 <td>Friend and former Massasoit Community College classmate of Sandra Birchmore</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_08_October_21_2026.pdf">October 21, 2026</a></td>
 <td>Birchmore’s relationship with Farwell; pregnancy; relationship conflict; communications and plans in late 2020 and January 2021.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-heather-cheever">
 <td class="witness"><strong>Detective Heather Cheever</strong></td>
 <td>Stoughton Police Department</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_02_October_13_2026.pdf">October 13, 2026</a></td>
 <td>Birchmore’s participation in the Police Explorers program and later contacts; mental-health history; pregnancy; identification of Farwell in apartment surveillance.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-ensley-cotard">
 <td class="witness"><strong>Officer Ensley Cotard</strong></td>
 <td>Canton Police Department / school resource officer</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_02_October_13_2026.pdf">October 13, 2026</a></td>
 <td>February 4, 2021 welfare check; entry into Birchmore’s apartment; discovery and initial observations of the death scene.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-lindsey-crean">
 <td class="witness"><strong>Lindsey Crean</strong></td>
 <td>Longtime friend of Sandra Birchmore</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_10_October_23_2026.pdf">October 23, 2026</a></td>
 <td>Friendship with Birchmore; disclosures about Farwell and when the sexual relationship began; pregnancy; mental-health history and prior self-harm.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-leslie-davis">
 <td class="witness"><strong>Leslie Davis</strong></td>
 <td>Close friend of Sandra Birchmore</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_04_October_15_2026.pdf">October 15, 2026</a></td>
 <td>Birchmore’s relationship with Farwell; pregnancy and preparations for the baby; communications shortly before her death; information Davis brought to police.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-matthew-dunne">
 <td class="witness"><strong>Trooper Matthew Dunne</strong></td>
 <td>Massachusetts State Police investigator assigned to Norfolk County</td>
-<td class="dates"><a href="GSE_Court_Reporting_Day_02_October_13_2026.pdf">October 13, 2026</a><br><a href="GSE_Court_Reporting_Day_03_October_14_2026.pdf">October 14, 2026</a></td>
+<td class="dates"><a href="GSE_Court_Reporting_Day_02_October_13_2026.pdf">October 13, 2026</a><br/><a href="GSE_Court_Reporting_Day_03_October_14_2026.pdf">October 14, 2026</a></td>
 <td>Initial death investigation; scene evidence; interviews; devices and records; investigative steps and decisions in February 2021.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-elizabeth-duval">
 <td class="witness"><strong>Elizabeth Duval</strong></td>
 <td>Forensic scientist, Massachusetts State Police Crime Laboratory</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_09_October_22_2026.pdf">October 22, 2026</a></td>
 <td>DNA testing and interpretation involving the ligature, fingernail clippings, underwear, and reference profiles from Farwell and Pickard.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-william-billy-farwell">
 <td class="witness"><strong>William “Billy” Farwell</strong></td>
 <td>Former Stoughton police officer; Matthew Farwell’s twin brother</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_11_October_26_2026.pdf">October 26, 2026</a></td>
 <td>His own sexual relationship with Birchmore; on-duty sexual contact; Police Explorers/Stoughton Police background; communications; testimony under a grant of immunity.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-james-fitton">
 <td class="witness"><strong>James Fitton</strong></td>
 <td>Former Stoughton Police dispatcher</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_07_October_20_2026.pdf">October 20, 2026</a></td>
 <td>January 2021 call concerning Birchmore and Matthew Farwell; Fitton’s conversation with Farwell after the call and subsequent handling of his notes.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-nicholas-guarino">
 <td class="witness"><strong>Nicholas Guarino</strong></td>
 <td>Digital forensic examiner; former Massachusetts State Police trooper assigned to the Norfolk DA’s office</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_04_October_15_2026.pdf">October 15, 2026</a></td>
 <td>2021 forensic extraction and examination of Birchmore- and Farwell-related devices; missing/deleted data; device and storage handling.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-donyea-holloway">
 <td class="witness"><strong>Donyea Holloway</strong></td>
 <td>Former Stoughton Police Explorers participant and friend of Sandra Birchmore</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_08_October_21_2026.pdf">October 21, 2026</a></td>
 <td>Police Explorers program; Birchmore’s participation; friendship and later reconnection; pregnancy and statements about Farwell.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-brian-holmes">
 <td class="witness"><strong>Brian Holmes</strong></td>
 <td>Former Stoughton deputy police chief; led the department’s internal-affairs investigation</td>
-<td class="dates"><a href="GSE_Court_Reporting_Day_04_October_15_2026.pdf">October 15, 2026</a><br><a href="GSE_Court_Reporting_Day_05_October_16_2026.pdf">October 16, 2026</a></td>
+<td class="dates"><a href="GSE_Court_Reporting_Day_04_October_15_2026.pdf">October 15, 2026</a><br/><a href="GSE_Court_Reporting_Day_05_October_16_2026.pdf">October 16, 2026</a></td>
 <td>Stoughton Police internal-affairs investigation after Birchmore’s death; Farwell’s employment and conduct; January 2021 dispatch call; investigative referrals.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-sheanna-isabel-zbinski">
 <td class="witness"><strong>Sheanna Isabel Zbinski</strong></td>
 <td>Former Stoughton Police employee</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_09_October_22_2026.pdf">October 22, 2026</a></td>
 <td>Her 2016 sexual relationship with Matthew Farwell while he was married; communications and circumstances of their meetings.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-jessica-katz">
 <td class="witness"><strong>Jessica Katz</strong></td>
 <td>Attorney consulted by Sandra Birchmore</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_07_October_20_2026.pdf">October 20, 2026</a></td>
 <td>Birchmore’s requests for family-law information concerning pregnancy, paternity, visitation, and the anticipated involvement of the child’s father.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-heidi-kelsch">
 <td class="witness"><strong>Special Agent Heidi Kelsch</strong></td>
 <td>Federal Bureau of Investigation</td>
-<td class="dates"><a href="GSE_Court_Reporting_Day_05_October_16_2026.pdf">October 16, 2026</a><br><a href="GSE_Court_Reporting_Day_06_October_19_2026.pdf">October 19, 2026</a><br><a href="GSE_Court_Reporting_Day_07_October_20_2026.pdf">October 20, 2026</a></td>
+<td class="dates"><a href="GSE_Court_Reporting_Day_05_October_16_2026.pdf">October 16, 2026</a><br/><a href="GSE_Court_Reporting_Day_06_October_19_2026.pdf">October 19, 2026</a><br/><a href="GSE_Court_Reporting_Day_07_October_20_2026.pdf">October 20, 2026</a></td>
 <td>Federal investigation and digital evidence; Birchmore/Farwell communications; device and Apple Health data; searches; relationship chronology and paternity evidence.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-robert-kuhn">
 <td class="witness"><strong>Sgt. Robert Kuhn</strong></td>
 <td>Stoughton Police Department; former Stoughton High School resource officer</td>
-<td class="dates"><a href="GSE_Court_Reporting_Day_03_October_14_2026.pdf">October 14, 2026</a><br><a href="GSE_Court_Reporting_Day_04_October_15_2026.pdf">October 15, 2026</a></td>
+<td class="dates"><a href="GSE_Court_Reporting_Day_03_October_14_2026.pdf">October 14, 2026</a><br/><a href="GSE_Court_Reporting_Day_04_October_15_2026.pdf">October 15, 2026</a></td>
 <td>Police Explorers and school context; Farwell’s workplace behavior and demeanor; observations of Birchmore and Farwell.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-samantha-mccue">
 <td class="witness"><strong>Samantha McCue</strong></td>
 <td>Former Stoughton Police Explorers participant</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_09_October_22_2026.pdf">October 22, 2026</a></td>
 <td>Her 2012 sexual relationship with Matthew Farwell; communications and circumstances of their meetings.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-shauna-mcgrath">
 <td class="witness"><strong>Shauna McGrath</strong></td>
 <td>Sandra Birchmore’s hairdresser</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_08_October_21_2026.pdf">October 21, 2026</a></td>
 <td>Birchmore’s statements about her relationship with Farwell; efforts to become pregnant; pregnancy and plans for maternity photos.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-donna-mcnamara">
 <td class="witness"><strong>Donna McNamara</strong></td>
 <td>Stoughton police chief</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_04_October_15_2026.pdf">October 15, 2026</a></td>
 <td>Farwell’s employment and Police Explorers history; department policies and records; internal-affairs response; referrals to outside authorities.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-sarah-odams">
 <td class="witness"><strong>Sarah Odams</strong></td>
 <td>Friend of Sandra Birchmore</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_09_October_22_2026.pdf">October 22, 2026</a></td>
 <td>Birchmore’s relationship with Farwell; pregnancy and expected paternity; future plans; relationship conflict; contacts with investigators.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-mackenzie-palma">
 <td class="witness"><strong>Mackenzie Palma</strong></td>
 <td>Childhood acquaintance of Sandra Birchmore; nurse and artist</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_07_October_20_2026.pdf">October 20, 2026</a></td>
 <td>Birchmore’s pregnancy announcement plans; custom sign and baby onesie; late-2020/January-2021 communications.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-jason-pickard">
 <td class="witness"><strong>Jason Pickard</strong></td>
 <td>Former Army recruiter; biological father of Birchmore’s unborn child</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_09_October_22_2026.pdf">October 22, 2026</a></td>
 <td>His relationship with Birchmore; pregnancy and paternity; Birchmore’s disclosures about Farwell; final weeks and communications; testimony under a grant of immunity.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-erin-porter">
 <td class="witness"><strong>Erin Porter</strong></td>
 <td>Canton Woods property manager</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_02_October_13_2026.pdf">October 13, 2026</a></td>
 <td>February 4 welfare check; access to Birchmore’s apartment; apartment-building layout and surveillance; information later relayed to police.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-lisa-rocchio">
 <td class="witness"><strong>Dr. Lisa Rocchio</strong></td>
 <td>Clinical and forensic psychologist; childhood-sexual-abuse expert</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_08_October_21_2026.pdf">October 21, 2026</a></td>
 <td>General expert testimony about grooming, victim selection and access, desensitization, maintenance, and delayed/disclosure dynamics; no case-specific evaluation.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-sarah-sproul">
 <td class="witness"><strong>Sarah Sproul</strong></td>
 <td>Longtime acquaintance of Matthew Farwell</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_09_October_22_2026.pdf">October 22, 2026</a></td>
 <td>Her 2016 sexual relationship with Farwell while he was married; communications and circumstances of their meetings.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-priyanka-venkataraman">
 <td class="witness"><strong>Dr. Priyanka Venkataraman</strong></td>
 <td>Sandra Birchmore’s OB-GYN</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_07_October_20_2026.pdf">October 20, 2026</a></td>
 <td>Pregnancy and prenatal care; viability and symptoms; medical history and medication; clinical observations.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-carlos-verissimo">
 <td class="witness"><strong>Carlos Verissimo</strong></td>
 <td>Canton Woods maintenance supervisor</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_02_October_13_2026.pdf">October 13, 2026</a></td>
 <td>Apartment-building layout; surveillance system and video; identification of Birchmore in apartment-complex footage.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-stephanie-waite">
 <td class="witness"><strong>Stephanie Waite</strong></td>
 <td>Forensic scientist, Massachusetts State Police Crime Laboratory</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_08_October_21_2026.pdf">October 21, 2026</a></td>
 <td>Physical evidence received from the autopsy; ligature, underwear, fingernail scrapings and swabs; examination and sampling for later DNA testing.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-karlie-williams">
 <td class="witness"><strong>Karlie Williams</strong></td>
 <td>Childhood friend of Sandra Birchmore</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_08_October_21_2026.pdf">October 21, 2026</a></td>
 <td>Reconnection with Birchmore; pregnancy; late-January/February 2021 communications and plans concerning Birchmore’s snowed-in car.</td>
 </tr>
-<tr>
+<tr class="person-row" id="person-alicia-zimmerman">
 <td class="witness"><strong>Alicia Zimmerman</strong></td>
 <td>Toxicologist / forensic scientist, Massachusetts State Police Crime Laboratory</td>
 <td class="dates"><a href="GSE_Court_Reporting_Day_03_October_14_2026.pdf">October 14, 2026</a></td>
 <td>Postmortem toxicology testing, including alcohol, commonly abused drugs, and sertraline (Zoloft).</td>
-</tr></tbody></table></div>
-<p class="note"><strong>Source note:</strong> This guide is based on the daily Grant Smith Ellis court-reporting archive through October 26, 2026 and cross-checked against contemporaneous reporting from established Boston-area news organizations. Outside reporting is used to verify names, roles, testimony dates, and high-level subject matter—not to add analysis or characterize the evidence. Testimony dates link to the corresponding daily archive report.</p>
+</tr></tbody></table></div></section><section id="other-people"><h2>Other People Relevant to the Record</h2><p class="section-deck">People who have not testified but are referenced in testimony, records, investigative actions, or other case material. They are included here when identifying them may help readers follow the record. If a person later testifies, their entry will move to the Witnesses section.</p><div class="table-wrap"><table class="other-table" id="other-table"><thead><tr><th>Name</th><th>Role / connection</th><th>References</th></tr></thead><tbody><tr class="person-row" id="person-michael-baden"><td class="person-name"><strong>Dr. Michael Baden</strong></td><td>Forensic pathologist whose review and opinion concerning Sandra Birchmore’s death are referenced in the record.</td><td class="refs">Trial record; medical-review materials</td></tr><tr class="person-row" id="person-yuriy-yuri-bukhenik"><td class="person-name"><strong>Yuriy “Yuri” Bukhenik</strong></td><td>Massachusetts State Police investigator referenced in testimony concerning Norfolk County/CPAC contacts with Stoughton Police.</td><td class="refs"><a href="GSE_Court_Reporting_Day_08_October_21_2026.pdf">October 21, 2026</a></td></tr><tr class="person-row" id="person-denise-birchmore"><td class="person-name"><strong>Denise Birchmore</strong></td><td>Sandra Birchmore’s mother; died in 2016.</td><td class="refs">Trial testimony</td></tr><tr class="person-row" id="person-robert-devine"><td class="person-name"><strong>Robert Devine</strong></td><td>Former Stoughton police officer and officer-in-charge of the Police Explorers program from 2002–2014. A 2025 POST hearing officer found that Devine communicated with Sandra Birchmore while on duty and met her for a sexual encounter. Massachusetts POST later revoked his certification after finding a pattern of unprofessional police conduct that may escalate and repeated sustained internal-affairs complaints.</td><td class="refs">Trial record; <a href="https://mapostcommission.gov/devine-robert/">Massachusetts POST — Final and Initial Decision</a></td></tr><tr class="person-row" id="person-john-fanning"><td class="person-name"><strong>John Fanning</strong></td><td>Massachusetts State Police sergeant assigned to the Norfolk District Attorney’s Office who worked on the 2021 investigation into Birchmore’s death.</td><td class="refs">Trial testimony; MSP investigative records</td></tr><tr class="person-row" id="person-claire-gaudet"><td class="person-name"><strong>Claire Gaudet</strong></td><td>Sandra Birchmore’s grandmother figure; died in 2016 shortly after Sandra’s mother, Denise Birchmore.</td><td class="refs">Trial testimony; family background records</td></tr><tr class="person-row" id="person-joshua-heal"><td class="person-name"><strong>Joshua Heal</strong></td><td>Friend of Sandra Birchmore and Stoughton animal-control officer whom she spoke with about personal matters.</td><td class="refs"><a href="GSE_Court_Reporting_Day_06_October_19_2026.pdf">October 19, 2026</a>; Stoughton records</td></tr><tr class="person-row" id="person-william-kilroy"><td class="person-name"><strong>William Kilroy<sup>1</sup></strong></td><td>Former boyfriend of Sandra Birchmore during her Massasoit Community College years.</td><td class="refs"><a href="GSE_Court_Reporting_Day_11_October_26_2026.pdf">October 26, 2026</a>; defense opening</td></tr><tr class="person-row" id="person-kim-lydon"><td class="person-name"><strong>Kim Lydon</strong></td><td>Personal trainer who was referenced as spending time walking with Sandra Birchmore.</td><td class="refs"><a href="GSE_Court_Reporting_Day_08_October_21_2026.pdf">October 21, 2026</a></td></tr><tr class="person-row" id="person-alice-m-mckain"><td class="person-name"><strong>Alice M. McKain</strong></td><td>Sandra Birchmore’s aunt; died in 2019.</td><td class="refs">Family background records</td></tr><tr class="person-row" id="person-michael-w-morrissey"><td class="person-name"><strong>Michael W. Morrissey</strong></td><td>Norfolk County District Attorney. His office directed the initial state investigation into Sandra Birchmore’s death and did not bring criminal charges. In 2022, the office stated that the investigation had found no evidence of foul play; following Farwell’s federal indictment in 2024, it said the state investigation remained open and active.</td><td class="refs">Norfolk District Attorney’s Office statements; investigative records</td></tr><tr class="person-row" id="person-julia-perlin"><td class="person-name"><strong>Julia Perlin</strong></td><td>Friend of Sandra Birchmore. Perlin made the January 20, 2021 call to Stoughton Police concerning Birchmore’s relationship with Matthew Farwell.</td><td class="refs"><a href="GSE_Court_Reporting_Day_09_October_22_2026.pdf">October 22, 2026</a>; January 20, 2021 call/dispatch records</td></tr><tr class="person-row" id="person-william-smock"><td class="person-name"><strong>Dr. William Smock</strong></td><td>Physician and strangulation expert consulted by federal investigators during the later review of Birchmore’s death.</td><td class="refs">Trial record; federal-review materials</td></tr><tr class="person-row" id="person-darlene-smith"><td class="person-name"><strong>Darlene Smith</strong></td><td>Sandra Birchmore’s aunt; Sandra lived with her after the deaths of her mother and grandmother.</td><td class="refs">Trial testimony; exhibits</td></tr><tr class="person-row" id="person-brian-tully"><td class="person-name"><strong>Brian Tully</strong></td><td>Massachusetts State Police detective lieutenant with the Norfolk County State Police Detective Unit; referenced in records and testimony concerning the 2021 investigation.</td><td class="refs"><a href="GSE_Court_Reporting_Day_08_October_21_2026.pdf">October 21, 2026</a>; MSP records</td></tr><tr class="person-row" id="person-barbara-barb-wright"><td class="person-name"><strong>Barbara “Barb” Wright</strong></td><td>Sandra Birchmore’s cousin.</td><td class="refs">Trial record</td></tr></tbody></table></div><p class="editorial-footnote"><strong><sup>1</sup> Editorial note:</strong> Testimony concerning Birchmore’s mental-health history referred to grief associated with “losing” her mother, grandmother, and boyfriend. That wording should not be read to mean that Kilroy was deceased; other trial material states that Birchmore and Kilroy broke up and anticipated Kilroy himself appearing as a witness.</p></section><p class="note"><strong>Source note: </strong>Witness entries are based on the daily Grant Smith Ellis court-reporting archive through October 26, 2026. Other-person entries use the trial record and identified official or background records only as needed for orientation. Descriptions of private and family relationships are intentionally limited; institutional entries may include additional official-role context. Inclusion does not characterize the importance, credibility, or weight of a person or the evidence associated with them.</p>
+
+
+
 </main><script>
-const input=document.getElementById('filter'),rows=[...document.querySelectorAll('#witness-table tbody tr')],count=document.getElementById('count');
-function f(){const q=input.value.trim().toLowerCase();let n=0;for(const r of rows){const v=!q||r.innerText.toLowerCase().includes(q);r.hidden=!v;if(v)n++}count.textContent=`${n} witness${n===1?'':'es'}`} input.addEventListener('input',f);
+const input=document.getElementById('filter');
+const rows=[...document.querySelectorAll('.person-row')];
+const count=document.getElementById('count');
+const total=rows.length;
+const witnessTotal=document.querySelectorAll('#witness-table tbody .person-row').length;
+function f(){
+  const q=input.value.trim().toLowerCase(); let n=0;
+  for(const r of rows){const v=!q||r.innerText.toLowerCase().includes(q);r.hidden=!v;if(v)n++;}
+  count.textContent=q?`${n} match${n===1?'':'es'}`:`${witnessTotal} witnesses · ${total} people`;
+}
+input.addEventListener('input',f);
 </script></body></html>
