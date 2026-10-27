@@ -45,7 +45,16 @@ h1 { font-size:clamp(2rem,6vw,3.6rem); line-height:1.05; margin:.35rem 0 1rem; }
 .fine { color:var(--muted); font-size:.92rem; }
 footer { margin-top:38px; padding-top:20px; border-top:1px solid var(--line); color:var(--muted); font-size:.9rem; }
 @media (max-width:560px) { main { padding-top:28px; } .actions .button { width:100%; text-align:center; } .latest { display:block; } .latest .actions { margin-top:16px; } }
-</style>
+
+    .top-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 24px 0 18px;
+    }
+    .top-nav .button { text-decoration: none; }
+
+  </style>
 </head>
 <body>
 <main>
@@ -53,6 +62,10 @@ footer { margin-top:38px; padding-top:20px; border-top:1px solid var(--line); co
   <div class="eyebrow">Public reading archive</div>
   <h1>Sandra Birchmore Trial Files</h1>
   <p class="lede"><strong>Daily courtroom reporting, organized for reading.</strong><br>Grant Smith Ellis&rsquo;s contemporaneous reporting from <em>United States v. Matthew Farwell</em>, preserved chronologically by court day with source links retained wherever practical.</p>
+
+    <nav class="top-nav" aria-label="Case reference navigation">
+      <a class="button primary" href="witnesses.html">Witness Guide</a>
+    </nav>
 </header>
 
 <section class="notice" aria-label="Important archive notice">
@@ -75,15 +88,6 @@ footer { margin-top:38px; padding-top:20px; border-top:1px solid var(--line); co
   <div class="actions">
     <a class="button primary" href="gse-transcripts/GSE_Court_Reporting_Day_11_October_26_2026.pdf">Read latest PDF</a>
     <a class="button secondary" href="https://raw.githubusercontent.com/BirchmoreArchive/Sandra-Birchmore-Trial-Files/main/gse-transcripts/GSE_Court_Reporting_Day_11_October_26_2026.docx">Download Word</a>
-  </div>
-</section>
-
-<section aria-label="Reference tools">
-  <div class="eyebrow">Reference tools</div>
-  <h2 class="archive-heading">Quick reference</h2>
-  <p class="lede">Use the witness guide to identify witnesses, their roles, testimony dates, and the high-level subjects they addressed.</p>
-  <div class="actions">
-    <a class="button primary" href="witnesses.html">Witness Guide</a>
   </div>
 </section>
 
