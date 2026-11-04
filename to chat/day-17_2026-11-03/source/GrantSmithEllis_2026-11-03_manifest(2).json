@@ -1,0 +1,1196 @@
+{
+  "source_pack_schema": "x-archive-source-pack/2",
+  "wrapper_version": "0.5.2",
+  "generated_at_utc": "2026-11-04T00:37:25.562975Z",
+  "platform": "X",
+  "date": "2026-11-03",
+  "author_handle": "GrantSmithEllis",
+  "file_prefix": "GrantSmithEllis_2026-11-03",
+  "query_window": {
+    "timezone": "America/New_York",
+    "start": "05:00",
+    "end": "18:00"
+  },
+  "query_command": "C:\\Users\\wolfk\\Desktop\\Tweet Pulls\\x.exe search from:GrantSmithEllis since_time:1793700000 until_time:1793746800 --tier session --product Latest -n 500 -o jsonl",
+  "counts": {
+    "canonical_unique": 230,
+    "window_unique": 230,
+    "ancestry_unique": 195,
+    "both": 195,
+    "ancestry_only": 0,
+    "window_only": 35,
+    "ancestry_coverage_pct": 100.0
+  },
+  "seed": {
+    "id": "2117687815236718745",
+    "created_at": "2026-11-03T18:38:14Z",
+    "selection": "interactive",
+    "text": "What a wild day!\n\nGod bless you all! \n\nThank you for your support of my work!\n\nDonation information below;\n\nVenmo: https://t.co/aS1seZFGwv\n\nPaypal = https://t.co/T02firu36i https://t.co/OCJhkZKeio"
+  },
+  "seed_candidates": [
+    {
+      "id": "2117576559305367959",
+      "created_at": "2026-11-03T11:16:09Z",
+      "text": "@BostonBrandi100 I agree!\n\nBrian Tully and John Fanning covered up Sandra Birchmore's murder to protect a cop-connected brothel, and a juridical recokening is coming.\n\nStronger together. Always.\n\nKP, Marty Kraft and their paymasters will fall.\n\nMark my words."
+    },
+    {
+      "id": "2117589216016384364",
+      "created_at": "2026-11-03T12:06:26Z",
+      "text": "That's bad."
+    },
+    {
+      "id": "2117601736370049370",
+      "created_at": "2026-11-03T12:56:11Z",
+      "text": "Home stretch. https://t.co/2WzkdI3i8P"
+    },
+    {
+      "id": "2117607840714002884",
+      "created_at": "2026-11-03T13:20:27Z",
+      "text": "That sounds bad."
+    },
+    {
+      "id": "2117616281251979716",
+      "created_at": "2026-11-03T13:53:59Z",
+      "text": "Good morning from inside Boston's Moakley Federal Courthouse for the penultimate day of the defense's case in the Sandra Birchmore and Matthew Farwell trial.\n\nTwo DNA experts will take the stand.\n\nI am seated in the overflow courtroom and we are ready to go."
+    },
+    {
+      "id": "2117616771171598476",
+      "created_at": "2026-11-03T13:55:56Z",
+      "text": "As the overflow room opens, we join mid-discussion of the defense DNA's expert.\n\nThe DOJ says that because the anal DNA swaps were taken 21 days after Sandra's death, they should not be admitted. They are slides 88-92, those are the anal swaps, and slides 98-102 are about swaps for which there were no testimony but that is less concerning because it is from the underwear says the government, slide 103 is just hearsay and it has no relevant purpose, says the government.\n\nThis slide says \"the lab was required to notify John Fanning and Lisa Beatty.\""
+    },
+    {
+      "id": "2117618465351631358",
+      "created_at": "2026-11-03T14:02:40Z",
+      "text": "\"The government is moving to preclude reference to those slides as they will confuse the jury. With 106-107, the government is objecting to the defense expert offering any opinion on paternity. He only read the Bode report. The Bode report is hear say. Dr. Reed from body can be called by the defense. This witness cannot put the paternity tests in.\"\n\nDefense says, \"your honor, pages 11-12 are the summary...\"\n\n\"Counsel, is there any opinion about paternity?\"\n\n\"No, your honor, we will take out 106-107 we are happy to not talk about that. The rest of the topics we would say data was produced from the anal and oral swaps and they are in his report?\"\n\n\"Was there testimony about that?\"\n\n\"No by Ms. Duvall, but the government got notice of our expert's report on may 6th, and those topics are on pages 3, 6, 7 and 8.\"\n\n\"I guess counsel, and I'm mindful of the time (it is 8:58AM)...so counsel, I guess, so the point about critique vs opinion, I guess is it relevant if he is offering a critique of an opinion that wasn't offered. That is what I'm focused on counsel, and it has nothing to do with the fact that your illustrative aide is 107 pages.\" \n\n\"Your honor, he talked about this data in his report. If they don't want to call their expert that wrote the five reports...\"\n\n\"But how is it relevant if it's a critique of an opinion not before this jury?\"\n\n\"It's not a critique of an opinion, it's a critique of data. It's our case-on-chief and it's affirmative evidence based on our raw data, and if they want to critique his opinion with their expert on rebuttal, they can do so.\" \n\n\"Counsel, I think I understand the parties' views. 106-107 is withdrawn and won't be shown. 45-48 is withdrawn and won't be show. I''m inclined to preclude 88-92 but I'll reserved on that until we get there. It sounds like there's less of an objection top 89-100.\" \n\n\"What about 103?\"\n\n\"We object to 103.\"\n\n\"Sorry, yes, I understood that/ I'll reserve on 103.\"\n\n\"Your honor, we would propose removing all of the slides they object to if we can discuss the topics orally?\"\n\n\"Yes, but there might be an issue with the topic of 103. And, by the way counsel, so we don't all get confused, make sure to number the pages the same as they have been until now.\""
+    },
+    {
+      "id": "2117619802374066413",
+      "created_at": "2026-11-03T14:07:59Z",
+      "text": "\"Your honor, our objection to pages 1-47 goes to notice. It's a lovely PowerPoint that I'm sure took a lot of time to create, but the issue here is we got this last night. The PowerPoint's produced so far, although we did not object, were different. We don't have time to review 47 pages of DNA evidence in one night. We provided the data from our experts, and our PowerPoints, five weeks ahead of time. Because of the short notice, we object to 1-47.\"\n\n\"Your honor, those are teaching slides.\"\n\n\"I understand  Ms. Riley's point, counsel. I'm not unsympathetic to it counsel. I think here when I went through them they did appear to be general background slide but if the government has an objection as we go you should state it and I will address it.\"\n\n\"Your honor there were no objections to Dr. Garvin's slides, and I don't expect objections here.\"\n\n\"Okay. I think we have all of our jurors. Ms. Cook before you leave...counsel, in follow up to our charge conference, I'm giving you the red lined pages that have changed. Let's go in sequence. Page 10, to the limiting instruction, I added a state of mind section. I looked at Morton and Iotova, they were both cited in my order on the motion in liminine, I think this instruction is consistent with that also recognizes these witnesses have other testimony that is not limited in this way. On page 16, at the defense's request, I went back and added the two lines from pattern instruction 2.08. Page 17 which I didn't include because I didn't make any changes. Defense asked for changes but I kept it as is, per pattern instruction 2.11. And then you'll see the two typos I corrected on 22-23 and I did make part of the change requested consistent with Fowler. I'll saw something about that when we have a moment. Bring the jury in.\"\n\n\"All rise for the jury!\""
+    },
+    {
+      "id": "2117619910134350245",
+      "created_at": "2026-11-03T14:08:24Z",
+      "text": "Thank you all, as we wait, for your support of my work. I will strive to cover every second of today's testimony. No breaks."
+    },
+    {
+      "id": "2117620158839607706",
+      "created_at": "2026-11-03T14:09:24Z",
+      "text": "\"Jurors, we will get started.\"\n\n\"Your honor,\" says Kim Stevens, \"may I have just one moment to make some changes?\"\n\n\"Sure.\"\n\nKim Stevens prepares her papers and edits out slides that were objected to by the government.\n\n\"Thank you your honor, the defense calls Dr. Max Nourredine!\""
+    },
+    {
+      "id": "2117620855396020235",
+      "created_at": "2026-11-03T14:12:10Z",
+      "text": "The witness is sworn. \n\n\"Please introduce yourself.\"\n\n\"My name is Maher Nourredine.\"\n\n\"I called you Max, do you go by Max?\"\n\n\"That's right!\"\n\n\"What is your area of specialty?\"\n\n\"Serology analysis, and DNA and molecular genetics. I have run a consulting company for 15 years.\"\n\n\"Yes, please move the microphone forward.\"\n\n\"Where did you earn your degree?\"\n\n\"Ratford Uni in Virgina.\"\n\n\"Masters?\"\n\n\"University of North Carolina at Greenbough in molecular biology.\"\n\n\"PH.d?\"\n\n\"UNC Chapel hill, molecular genetics.\"\n\n\"Fellow ship post doc?\"\n\n\"Duke university medical center in human genetics.\""
+    },
+    {
+      "id": "2117621248297496928",
+      "created_at": "2026-11-03T14:13:43Z",
+      "text": "\"What did you do at your post doc?\"\n\n\"I set up experiments over a two year period and looked at the environmental aspects of how certain genes turn off and on. B-52 is an important gene in cancer.\"\n\n\"What about your work with Parkinson's disease?\"\n\n\"I created models to study cell culture, human brain cells, and I worked on a project where I identified a set of genes that can cause early onset of Parkinson's and other diseases. I published that work.\"\n\n\"Do you have special training in complex genomi9cs?\"\n\n\"I do, all the work I have done throughout my education and training involved the humane genome, complex genomics, testing DNA samples, looking at results.\""
+    },
+    {
+      "id": "2117621316656255099",
+      "created_at": "2026-11-03T14:14:00Z",
+      "text": "\"Are you baord certified?\"\n\n\"Yes, in the area of forensic molecular biology.\""
+    },
+    {
+      "id": "2117621618763538538",
+      "created_at": "2026-11-03T14:15:12Z",
+      "text": "\"What is the international society of forensic genetics?\"\n\n\"That is a highly reputable society where a lot of the studies take on forws3enic DNA analysis that particular society is very active and I think they foster meeting they uhh publish quite a publish quite a bit of work and uhh given ho0w fast this field moves on a weekly basis it is important to keep track of it and that's how I keep track of it.\""
+    },
+    {
+      "id": "2117621885353537736",
+      "created_at": "2026-11-03T14:16:15Z",
+      "text": "\"Do you teach?\"\n\n\"Yes, I teach a basic forensics course at Ratford. It's nice to be at that college. It's a nice area of Virginia.\"\n\n\"Are you a mission pilot with the civil air patrol?\"\n\n\"I am not any longer.\"\n\n\"Objection.\"\n\n\"Counsel, any response?\"\n\n\"This goes to background.\"\n\n\"I'll allow it to stand.\"\n\n\"Continue.\"\n\n\"I was a mission pilot for 20 years.\"\n\n\"What rank did you hold?\"\n\n\"Objection, relevance.\"\n\n\"Counsel, sustained at this point.\"\n\n\"Okay.\""
+    },
+    {
+      "id": "2117622055860387888",
+      "created_at": "2026-11-03T14:16:56Z",
+      "text": "\"Counsel, is this your illustrative aide?\"\n\n\"Yes, but it's still being worked on your honor.\"\n\n\"Oh, okay.\"\n\n\"I'll start with this, did you review any data before doing your report?\"\n\n\"Yes, I reviewed the case file, statements about the case, maybe a few other things that I did.\""
+    },
+    {
+      "id": "2117622313449345394",
+      "created_at": "2026-11-03T14:17:57Z",
+      "text": "\"Jurors, as I suspect your anticipate, there will be another visual aide with this witness. It is only to illustrate the testimony and it is not in of itself evidence.\"\n\n\"Doctor, did you review DNA and serology lab reports?\"\n\n\"Yes, five DNA reports and 1 serology report. They ranged from 2021 to 2026.\"\n\n\"May we pull up exhibit s_14 for ID only?\"\n\n\"You may.\"\n\n\"May we show it to the jury?\"\n\n\"You may.\""
+    },
+    {
+      "id": "2117622708385054773",
+      "created_at": "2026-11-03T14:19:31Z",
+      "text": "\"What is forensic serology?\"\n\n\"Testing for the presence of bodily fluids. That is the discipline. That is the field in which that testing is done.\"\n\n\"What main questions do you ask?\"\n\n\"Typically we try to identify the bodily fluid but that bis not always possible there are different kinds of tests that forensic labs use and they can vary but the main bodily fluids that are looked for use a presumptive test and that's a test that can tell you a bodily fluid may be present if you get a reaction but it doesn't confirm>\"\n\n\"What is a confirmatory test?\"\n\n\"A testt unique to that substance which tells you the fluid ism present.\""
+    },
+    {
+      "id": "2117622852023099724",
+      "created_at": "2026-11-03T14:20:06Z",
+      "text": "I feel terrible for the people close to brain Tully and John Fanning who have to try to cover every word of this trial to keep them informed and in a futile effort to match my coverage.\n\nI scoff at them."
+    },
+    {
+      "id": "2117623516644135422",
+      "created_at": "2026-11-03T14:22:44Z",
+      "text": "\"What kinds of tests look for blood?\"\n\n\"Well, some tests look for hemoglobin. Human hemoglobin in particular. That confirms blood. Some tests also have presumptive blood results but that doesn't confirm it.\"\n\n\"What about saliva tests?\"\n\n\"There is no confirmatory test for saliva per se but there is alp[ha analytes that can be found in salvia but it can also be found in other bodily sources as well.\n\n\"\"What about testing for semen, is ejucate different than sperm?\"\n\n\"Yes, what is known as semen is the fluid or the liquid portion which is the ejucalate. Then the cellular component in a typical male has sperm cells. There are tests for each one. For the former there are a few different types of tests, alpha phosphate is present in seminal fluid and if you get a reaction that could be an indication of seminal fluid but that is a presumptive not a confirmatory test.\"\n\n\"Are there tests for sperm?\n\n\"Yes, similar tests.\""
+    },
+    {
+      "id": "2117623659707748605",
+      "created_at": "2026-11-03T14:23:18Z",
+      "text": "\"Why is it not confirmatory?\"\n\n\"The Acid phosphatase molecule is quite ubiquitous in the body!\""
+    },
+    {
+      "id": "2117623881779286118",
+      "created_at": "2026-11-03T14:24:11Z",
+      "text": "\"What is this?\"\n\n\"It's a form of test like a pregnancy test or a COVID test. You let a sample absorb through the card. One line will show for negative. Two lines for positive. These tests are used for certain aspects of seminal fluid but you can also use a card like that for alpha amylase.\""
+    },
+    {
+      "id": "2117624428284502201",
+      "created_at": "2026-11-03T14:26:21Z",
+      "text": "\"What is the slide?\"\n\n\"A view of sperm visualized. The idea is you prepare the sample, you impart some colors to the different aspects of sperm, then you look at it in a microscope.\" \n\n\"How much sperm does a typical male produce?\"\n\n\"20 million to 5million sperm cells per millimeter. a typical male will produce 4-6 milliliters of ejucatulate.\"\n\n\"Does sperm survive the laundry process/\n\n\"Survive meaning can it still be found? Well, when body leaves the body it's dead, but it can still be identified, yes. If you have a stain on a piece of fabric, and you wash it, studies show that even after wash and dry that area will still reveal sperm cells. It doesn't have to be originating from the area, those sperm cells will redistribute...sorry...witness drops the microphone...they will redistribute along the laundry loads.\""
+    },
+    {
+      "id": "2117624574049497423",
+      "created_at": "2026-11-03T14:26:56Z",
+      "text": "\"Where does DNA come from?\"\n\n\"Inside the cells of the body there are DNA inside the cell of the nucleus. Whether it comes from your foreheed, toe, blood, semen or salvia, all of the cells will yield your dna.\""
+    },
+    {
+      "id": "2117624813594271884",
+      "created_at": "2026-11-03T14:27:53Z",
+      "text": "\"What is this?\"\n\n\"If you take DNA and put it under a microscope, you will see this. Each human cell has 46 chromosomes, 23 pairs of chromosomes we call them because each pairing contributes a cell, so each cell in your body had 45 of these chromosomes.\" \n\n\"Okay, so one is from your mother and one is from your father?\"\n\n\"Yes.\""
+    },
+    {
+      "id": "2117624929688408193",
+      "created_at": "2026-11-03T14:28:21Z",
+      "text": "\"What does this XX and XY mean?\"\n\n\"If you are a genetic male, you have one X and one Y, if you are a genetic female, you have two X's. One from each parent.\"\n\n\"What is this slide?\"\n\n\"This is a double helix!\""
+    },
+    {
+      "id": "2117625011280183523",
+      "created_at": "2026-11-03T14:28:40Z",
+      "text": "\"What is a double helix?\"\n\n\"A long string of individual nuclides. That is the genetic code!\""
+    },
+    {
+      "id": "2117625326838698112",
+      "created_at": "2026-11-03T14:29:56Z",
+      "text": "\"Turning to the next page, what is a short tandem repeat and what does it have to do with your report?\"\n\n\"We all share DNA, we are 99% identical, but we different in short tandem repeats. That is how we potentially identify individuals. They are scatted throughout the genome. They are stretches of DNA that have those repetitive elements. You see the 'GATA' on your screen, repeated five times, that is the STR. That is one allele from one parent!\""
+    },
+    {
+      "id": "2117625733824573953",
+      "created_at": "2026-11-03T14:31:33Z",
+      "text": "\"And this is an example of one allele from one parent and one from the other?\"\n\n\"Yes, some of the DNA is the same but we differ by how long those repetitive elements are and by studying the ones you have, one can identify you genetically.\" \n\n\"What does Chromosome 16 marker D16s539 mean?\"\n\n\"So, the nomeculture, is a way to name those areas. We have to give them each a name. D16 is chromosome 16. s539 is the 539th marker that has been identified by scientists. So they give them sequential numbers and it's a marker on the 16th chromosome.\""
+    },
+    {
+      "id": "2117625980139315668",
+      "created_at": "2026-11-03T14:32:31Z",
+      "text": "\"What is a marker?\"\n\n\"A place in your DNA that contains those STR. There are maybe 100,000 of them but we only look at a small handful for our testing. Each one is called a marker.\"\n\n\"Does a market compromise our hair color or eye color?\"\n\n\"It's a location on your DNA. It does all kind of things. It defines how tall you are, your eyes, of course.\"\n\n\"What is an allele?\"\n\n\"A variant. One copy from mom and one from dead.\""
+    },
+    {
+      "id": "2117626172490105341",
+      "created_at": "2026-11-03T14:33:17Z",
+      "text": "\"And below this, your showing the names for whether you get the same or different form mom or dad?\"\n\n\"If you are homozygous that is different than heterozygous!\""
+    },
+    {
+      "id": "2117626208037077083",
+      "created_at": "2026-11-03T14:33:26Z",
+      "text": "I have no idea what is going on right now."
+    },
+    {
+      "id": "2117626424815198665",
+      "created_at": "2026-11-03T14:34:17Z",
+      "text": "\"What is this?\"\n\n\"Well, if someone has a genotype of 5/8 at their market, you always account for both copies. Now, many of us can have a 5 here, so a 5 is not unique to one person however as you look at more and more markets that uniqueness increases. it's easy to have a one number lottery ticket. it's harder to have a six number ticket!\""
+    },
+    {
+      "id": "2117626650531611096",
+      "created_at": "2026-11-03T14:35:11Z",
+      "text": "\"Are there variations between labs?\"\n\n\"Yes, some use a kit with 24 markers. Some use 27. Also Y-STR and STR testing are different. But we're using more numbers in recent years than 10 years ago. We used to rely on 16 numbers. or 16 markers I should say. Now the numbers have increased so you can better identify a person.\""
+    },
+    {
+      "id": "2117627100270105085",
+      "created_at": "2026-11-03T14:36:58Z",
+      "text": "\"What is this?\"\n\n\"These are short tandem repeats in DNA. What is depicted here is the physical difference between the 5 and the 8. You're looking at this in a lab to resolve the difference to see if someone is 5/8 or 2/6.\"\n\n\"Because the 5/8 is what makes a person unique?\"\n\n\"Well, sure, at that genetic marker, but remember many people have a 5/8 so there is a slice of the population, maybe 20%, will have that combination. One marker does not give you a whole lot of uniqueness. But if somebody doesn't have a 5/8,. and the evidence has a 5/8., that is an exclusion.\"\n\n\"So if they don't have the 5/8 you can exclude them because it's not part of their genetic makeup?\"\n\n\"Objection form.\"\n\n\"Sustained, counsel, direct.\""
+    },
+    {
+      "id": "2117627295917646128",
+      "created_at": "2026-11-03T14:37:45Z",
+      "text": "\"What is this?\"\n\n\"This is a comparison of multiple markers. You build a profile from that. This is an individual whose DNA profile is depicted by the short tandem repeat sizes. So this is a 4/4, 2/3, 1/4, 5/3 pattern!\""
+    },
+    {
+      "id": "2117627340377276650",
+      "created_at": "2026-11-03T14:37:56Z",
+      "text": "I think half of the courtroom is asleep."
+    },
+    {
+      "id": "2117627555129778233",
+      "created_at": "2026-11-03T14:38:47Z",
+      "text": "\"What is STR testing?\n\n\"You do an extraction step, as step 1, then you measure how much DNA you have because you need that information, the next step is amplification, which means looking at specific markers and making millions of copies of them, and then you separate the 5 from the 8 and that is the last step where you actually produce a DNA profile from someone!\""
+    },
+    {
+      "id": "2117627831983214662",
+      "created_at": "2026-11-03T14:39:53Z",
+      "text": "\"Does this slide show the extraction process?\"\n\n\"Yes, this is one type of procedure. It is fairly common. You take a swap from a fabric. You put it in a tube. You apply chemicals. Those chemicals dissolve the outside of the cell and release the DNA into the fluid./ Then you take that material and you go through steps to wash things you're not interested in, like lipids and proteins, and then at the end the bottom tube is called the extract with the tube of purified DNA from that sample.\""
+    },
+    {
+      "id": "2117628217045516775",
+      "created_at": "2026-11-03T14:41:25Z",
+      "text": "\"You said this is a step by step extraction of sperm cells in a sexual assault case?\"\n\n\"Yes, you apply the same process to this. Sperm is hearty and it doesn't break easily so you need all sorts of chemicals. Then you find the non-sperm fraction, it is called fraction 1, and then if sperm is present they will remain in tact then you apply another set of chemicals to break them open into another tube called a sperm fraction tube. If this process takes place, you cannot use that process to infer sperm is present. You have to confirm that initially. But this is a way to tease apart cells from, lets say a female, from DNA containing sperm.\""
+    },
+    {
+      "id": "2117628468078784900",
+      "created_at": "2026-11-03T14:42:25Z",
+      "text": "\"What is quantitation?\"\n\n\"This is where you take a portion of the extract to measure the amount of DNA. This is an important step because the tube on the left has a lot of DNA which can actually hamper things going forward, whereas on the right side tube there is very little DNA. Sometimes you won't get a result from too little. You need a sweet spot, but that sweet spot is only a few cells. We're not talking about needing a whole lot of DNA.\""
+    },
+    {
+      "id": "2117628758312034600",
+      "created_at": "2026-11-03T14:43:34Z",
+      "text": "\"What is PCR?\"\n\n\"Polymerase Chain Reaction is a process that allows you to create millions of copies of those specific areas.\"\n\n\"Do errors happen in the copying process?\"\n\n\"It can, however the science has become quite good in that that procedure has minimal errors but some errors do need to be accounted for, and with training and an eye that can catch those things, you have to be able to understand what can lead to artifictual results in your profile.\""
+    },
+    {
+      "id": "2117628821071405395",
+      "created_at": "2026-11-03T14:43:49Z",
+      "text": "I know about this from testing for mold and heavy metals in cannabis! I am a towel!"
+    },
+    {
+      "id": "2117628922057658504",
+      "created_at": "2026-11-03T14:44:13Z",
+      "text": "\"What is electroforesis?\"\n\n\"Electroforesis is separating the 5 from the 8 and the 2 form the 7!\"\n\nWhat?"
+    },
+    {
+      "id": "2117629196428087438",
+      "created_at": "2026-11-03T14:45:18Z",
+      "text": "\"What are we looking at here?\"\n\n\"This is what is being done in the lab. Everything is being taken place on a 96 well plate. Many labs use this setup. It's a very small plate with 96 wells in it. Each sample is placed in a particular well. So you have all these samples next to each other. Controls as well as evidence samples. They can be positive or negative controls. That way you monitor for contamination.\""
+    },
+    {
+      "id": "2117629359238365364",
+      "created_at": "2026-11-03T14:45:57Z",
+      "text": "\"How do you reduce contamination?\"\n\n\"Proper techniques and clothing. Changes gloves between samples. Being aware that all of this is happening in a teeny tiny area and any sample can actually contaminate the other.\""
+    },
+    {
+      "id": "2117629668207530405",
+      "created_at": "2026-11-03T14:47:11Z",
+      "text": "\"Can the lab control what happened to evidence before it gets there?\"\n\n\"No.\"\n\n\"What is DNA transfer?\"\n\n\"What happens before you get to collecting the evidence. This is how DNA goes from point A to point B, and there are many ways that can happen.\"\n\n\"Let me stop you real quick, Doctor, can I use the ELMO your honor to show exhibit 550?\"\n\n\"Counsel, is this in?\"\n\n\"I think it's in your honor. We have redacted it for sensitivity.\"\n\n\"You may.\""
+    },
+    {
+      "id": "2117629805994840549",
+      "created_at": "2026-11-03T14:47:44Z",
+      "text": "\"Doctor, this is a photo from the scene.\"\n\nMy God it's a picture of Sandra dead on the floor. The defense has blacked out her face.\n\nI don't think asking questions while this is on the screen bis ideal."
+    },
+    {
+      "id": "2117629980116971676",
+      "created_at": "2026-11-03T14:48:25Z",
+      "text": "\"Can transfer happen when a body is moved?\"\n\n\"Yes, this is on the carpet. This is after the investigators...\"\n\n\"Objection.\"\n\n\"Sustained as to that last part.\"\n\n\"Can carpets contaminate items that touch it?\"\n\n\"Yes.\""
+    },
+    {
+      "id": "2117630101387178492",
+      "created_at": "2026-11-03T14:48:54Z",
+      "text": "Now we see another body of Sandra's body. This time Sandra is on a slab. We see her pink underwear in a bag and her feet. Her toes are painted red. This is very sad."
+    },
+    {
+      "id": "2117630596067242243",
+      "created_at": "2026-11-03T14:50:52Z",
+      "text": "\"Can we switch back to the monitor please? Thank you. Turning to the next slide. What is this DNA profile single contributor?\"\n\n\"This is where, after step 4, the last instrument gives you the DNA profile and this has all the data from the sample.\"\n\n\"Is this the raw data from the MSP lab here?\"\n\n\"This chart is from the raw data yes.\"\n\n\"And we see lines with various heights and numbers below, can you describe that?\"\n\n\"If you start from the left, it is a genetic marker in each box. It starts with [unclear], which is a place in your DNA that looks for STR's. This person had allele 15 and 16 from their parents. Each peak is an allele and since it's a single source sample that is a straight forward conclusion.\"\n\n\"Dr, is this a standard slide from a teaching tool of yours, not a piece of evidence in this case?\"\n\n\"Sure!\""
+    },
+    {
+      "id": "2117631133273686038",
+      "created_at": "2026-11-03T14:53:00Z",
+      "text": "\"What is this little peak next to the big one?\"\n\n\"You asked about possible things that can produce artifacts, stutter is one of those artifacts to be aware. That is produced during amplification. It's a matter of biology you can't do anything about it. Each small peak has something next to it called a stutter peak. And it's either one peak repetitive element less or one repetitive element more than the tall peak so the one that I'm pointing at as stutter is a stutter peak that belongs to the peak labeled 12 and you can see if you squint your eyes there are stutter peaks throughout.\"   \n\nWut?"
+    },
+    {
+      "id": "2117631416569630773",
+      "created_at": "2026-11-03T14:54:08Z",
+      "text": "\"What conclusions can you draw from a single source result?\"\n\n\"You can conclude that the DNA sample reveals only one person being detected.\"\n\n\"When looking at that, can you exclude a person as a contributor to a sample?\"\n\n\"Yes, if the profile doesn't match the person's known profile. Because you're looking at a sample from someone's mouth or a crime scene. If they are different then that is not the person.\"\n\n\"Can they also include a person?\"\n\n\"Sure, if there is full consistency that can include a person!\""
+    },
+    {
+      "id": "2117631781079847330",
+      "created_at": "2026-11-03T14:55:34Z",
+      "text": "\"What does full consistency mean?\"\n\n\"It means a profile from someone's body and a sample from the crime scene are exactly the same. This mean it may originate from the same person.\"\n\n\"What is a mixture?\"\n\n\"When you have multiple people in the same DNA sample.\"\n\n\"How can that happen?\"\n\n\"Multiple people's DNA got into the same area. This is not unusual. A lot of samples are mixtures. How they got there, you can't surmise that because DNA results cannot tell you that. They can tell you it's multiple people but not how it got there.\"\n\n\"Do we transfer DNA is we shake hands?\"\n\n\"Yes.\"\n\n\"What if I shake hands with Mr. Fogerty?\"\n\n\"Yes.\""
+    },
+    {
+      "id": "2117631898352824450",
+      "created_at": "2026-11-03T14:56:02Z",
+      "text": "Okay I am taking my bathroom break. The witness is talking about peaks and markers in mixed samples."
+    },
+    {
+      "id": "2117633065761861638",
+      "created_at": "2026-11-03T15:00:41Z",
+      "text": "I have returned. I found a cookie.\n\nThe witness is still talking about mixed samples with multiple people as DNA contributors."
+    },
+    {
+      "id": "2117633260389834845",
+      "created_at": "2026-11-03T15:01:27Z",
+      "text": "\"Next slide?\"\n\n\"This is an unresolved mixture. It allows you to distinguish minor from major. 7/8 can be a person as can 5/8. You have to look at the data carefully. Notice 4 peaks all have the same height.\""
+    },
+    {
+      "id": "2117633627651535321",
+      "created_at": "2026-11-03T15:02:55Z",
+      "text": "\"What can this type of data show?\"\n\n\"It can help to disentanlge the mess with actual numbers to tell you if one combination is more probable than the other.\""
+    },
+    {
+      "id": "2117633788763361321",
+      "created_at": "2026-11-03T15:03:33Z",
+      "text": "\"What if you and I have a 7/10 at the same marker, can you tell the difference?\"\n\n\"Just on this, no?\"\n\n\"What about DNA mixture interpretation?\"\n\nThe slide says, and I quote;\n\n\"There are too many variables!!\""
+    },
+    {
+      "id": "2117634350468768171",
+      "created_at": "2026-11-03T15:05:47Z",
+      "text": "Firefox is updating and we can't see the exhibits in the overflow room lol."
+    },
+    {
+      "id": "2117634650407412206",
+      "created_at": "2026-11-03T15:06:59Z",
+      "text": "Okay, I made my own recreation of the witnesses' slide!\n\nI am going to become a professional expert witness now! https://t.co/an18w7Xb5G"
+    },
+    {
+      "id": "2117634833933291720",
+      "created_at": "2026-11-03T15:07:42Z",
+      "text": "We still can't see the exhibits.\n\nI am even more confused now."
+    },
+    {
+      "id": "2117634998199316610",
+      "created_at": "2026-11-03T15:08:21Z",
+      "text": "Kim Stevens is making me mad.\n\nWe are still not talking about the actual case. This is a lecture on DNA by a man who is far too verbose!\n\nAnd I say that as a man who is, indeed, quite verbose."
+    },
+    {
+      "id": "2117635517101588612",
+      "created_at": "2026-11-03T15:10:25Z",
+      "text": "\"How does it calculate these ratios?\"\n\n\"It looks at the peak heights. It looks at stutter peaks. It looks at the overall degradation of DNA. It also looks at whether somebody is fully represented or not. A low lying contributor is called drop out and the software will account for that. In this example, the software found that 8%% is the highest probability genotype for that person but it did not rule out that person can also be a 7/11.\""
+    },
+    {
+      "id": "2117635727697621111",
+      "created_at": "2026-11-03T15:11:15Z",
+      "text": "\"Could that person actually, in fact, be a 7/11?\"\n\nThat was an actual question from Kim Stevens.\n\n\"Objection, relevance!\"\n\n\"So, um, counsel, let me hear you on this.\"\n\n7/11 sidebah!"
+    },
+    {
+      "id": "2117636433850650703",
+      "created_at": "2026-11-03T15:14:04Z",
+      "text": "\"In your second example, why is it important to use the word if?\"\n\n\"Counsel, why don't we ask the question.\"\n\n\"Tell us the proper framing of the probabilistic language?\"\n\n\"Well, when you say what is the probability of the evidence given the hypothesis, that is different than the hypothesis of the probability given the evidence.\""
+    },
+    {
+      "id": "2117637167488840134",
+      "created_at": "2026-11-03T15:16:59Z",
+      "text": "\"What is an exclusion result from StarMix?\"\n\n\"It's a result that StarMix found, in the data, that a person is not a contributor. Just like starmix is useful for producing inclusionary results, it can also produce exclusionary results.\"\n\n\"Ms. Abbey can we fast-forward to slide 42. Let's talk about Y-STR testing.\"\n\n\"Now, just like we talked about,\"\n\n\"Objection, there is no question before the witness.\"\n\n\"What is X/Y/ inheritance?\"\n\n\"The propagation of the X/Y chromosome in a typical family. Three of them female one of them is male. You can see that Judge and Frank got both copies of the chormosomes, whereas the 3 sons each reicveed the same exact Y chromosome from the father. This is called a mpaternal lineage.\"\n\n\"Do all males inherit the same Y chromosome?\"\n\n\"All makes in the same paternal lineage.\""
+    },
+    {
+      "id": "2117637314356859384",
+      "created_at": "2026-11-03T15:17:34Z",
+      "text": "Y-STR is only for men, says the witness."
+    },
+    {
+      "id": "2117637513888038940",
+      "created_at": "2026-11-03T15:18:21Z",
+      "text": "Now the witness explains six charts about Y-STR single profile sources.\n\nThis is another teaching slide. \n\nWe now see another teaching slide about 3 men in the same Y-STR testing."
+    },
+    {
+      "id": "2117637860421402829",
+      "created_at": "2026-11-03T15:19:44Z",
+      "text": "@DonutsBaga No chance.\n\nShe's clearly a stoolie for MSP and the Morrissey Machine.\n\nShe will never, ever charge Brian Tully and John Fanning for the coverup of Sandra Birchmore's death.\n\nThe feds will have to clean up her messes, and they're ready to do so."
+    },
+    {
+      "id": "2117638022912962611",
+      "created_at": "2026-11-03T15:20:23Z",
+      "text": "We are still not on the actual case data. The witness is still lecturing about Y-STR DNA."
+    },
+    {
+      "id": "2117638162545545477",
+      "created_at": "2026-11-03T15:20:56Z",
+      "text": "\"Is a Y-STR profile unique to a single male line?\"\n\n\"It does get shared between males in the same lineage but it does not have to be unique to a male family specifically.\""
+    },
+    {
+      "id": "2117638858875568244",
+      "created_at": "2026-11-03T15:23:42Z",
+      "text": "\"We have made it through the teaching portion. Now let's move to the evidence.\"\n\n\"Counsel, you can just ask a question.\"\n\n\"Okay, did you look at the serology evidence in this case?\"\n\n\"Yes.\"\n\n\"Let's go item by item?\"\n\n\"Did you look at vaginal swaps from Ms. Birchmore?\"\n\n\"The trace evidence indicates anything like hair or otherwise in the vaginal swap and the lab does not indicate so.\"\n\n\"What about the next vaginal swap?\"\n\n\"That was tested for seminal fluids. Proteins, if you remember, and they got a negative result. They did not find sperm on the vaginal swaps, and the saliva test was positive, and typically it is not telling you for sure if there is saliva because it can be in other types of bodily fluid.\"\n\n\"What about the third vaginal swaps?\"\n\n\"No testing was done.\"\n\n\"What about genital swaps?\"\n\n\"Negative for sperm, negative for semen, positive for alpha amylase.\""
+    },
+    {
+      "id": "2117639033727988039",
+      "created_at": "2026-11-03T15:24:24Z",
+      "text": "Not a single juror has taken any notes during this testimony, reports Michel Bryant of Justice Served."
+    },
+    {
+      "id": "2117639292340085067",
+      "created_at": "2026-11-03T15:25:25Z",
+      "text": "&lt;3 &lt;3 &lt;3"
+    },
+    {
+      "id": "2117639463920628142",
+      "created_at": "2026-11-03T15:26:06Z",
+      "text": "\"What about stain B and stain J from interior crotch from Ms. Birchmore's underpants?\"\n\n\"Negative for seminal fluid, negtaive for human sperm cells and negative for alpha amylase.\"\n\n\"And trace materials from underwear stain B?\"\n\n\"Positive for seminal fluid, conclucuisive for sperm, positive for alpha amylase.\"\n\n\"Stain B-2?\"\n\n\"Positive for seminal fluid, negative for proteins, negative for sperm cells.\""
+    },
+    {
+      "id": "2117639783241351578",
+      "created_at": "2026-11-03T15:27:22Z",
+      "text": "\"Stain-e from the underpants?\"\n\n\"Positive for sperm and seminal fluid, negative for alpha amylase.\"\n\n\"Sample of J-2, interior back crotch of underwear?\"\n\n\"Negative for seminal fluid screening positive for sperm.\"\n\n\"A portion of the ligature, on the bottom of page 50?\"\n\n\"Not tested.\"\n\n\"And it says positive for skin cell?\"\n\n\"Possible skin cell.\"\n\n\"What does that mean?\"\n\n\"Just an indication that it was swapped for what the lab thinks was skin cells.\""
+    },
+    {
+      "id": "2117639935985651740",
+      "created_at": "2026-11-03T15:27:59Z",
+      "text": "\"Sample form left hand fingernails?\"\n\n\"Yes, possible skin cell collection.\""
+    },
+    {
+      "id": "2117640078352675218",
+      "created_at": "2026-11-03T15:28:33Z",
+      "text": "We see a picture of Sandra's underwear.\n\n\"Was this staining tested?\"\n\n\"Yes, the stains were tested.\""
+    },
+    {
+      "id": "2117640658148069831",
+      "created_at": "2026-11-03T15:30:51Z",
+      "text": "\"Is this from these areas, turning to the next page quickly, and next quickly...are these the parts of the underwear marked for testing?\"\n\n\"Yes.\"\n\n\"What is stain j-2?\"\n\n\"This was found on the underwear, ummm, let me just refresh my memory here, that is the exterior back crotch underwear sample.\"\n\n\"What is this?\"\n\n\"This is a micropgrah of what the anylast saw under the microscope and there is a sperm cell being shown.\"\n\nThe witness steps down and uses his finger to point at the sperm on the TV. He talks about how it shows a head and not a tail. The tail gets lost sometimes and you end up with only the head.\n\nOkay thanks, Doc."
+    },
+    {
+      "id": "2117640840445374802",
+      "created_at": "2026-11-03T15:31:34Z",
+      "text": "\"What is this slide?\"\n\n\"Stain E, which was the exterior back right of the underwear.\"\n\nThe witness stands down again and points at the sperm on the TV. It's a sperm head, he says."
+    },
+    {
+      "id": "2117641036864639466",
+      "created_at": "2026-11-03T15:32:21Z",
+      "text": "\"What is slide 63?\"\n\n\"This is the oral swap sample.\"\n\nThe witness points at the oral swap and says that he potentially sees sperm cells. It is important to have a clear view to say it is sperm, it is obstructed here."
+    },
+    {
+      "id": "2117641207543202146",
+      "created_at": "2026-11-03T15:33:02Z",
+      "text": "\"When were the samples here draw and submitted?\"\n\n\"At the onset of custody in 2021.\"\n\n\"Objection.\"\n\n\"In a word?\"\n\n\"Foundation, because it's wrong.\"\n\n\"Overruled, you can have that answer, counsel, moving on.\""
+    },
+    {
+      "id": "2117641437311332805",
+      "created_at": "2026-11-03T15:33:57Z",
+      "text": "\"When were the oral swap results analyzed?\"\n\n\"This was done on a sample prepared and reported on in 2021 from the initial serology report.\""
+    },
+    {
+      "id": "2117641620250374313",
+      "created_at": "2026-11-03T15:34:40Z",
+      "text": "\"What is this?\"\n\n\"This is the semen protein tests on four samples producing negative results for seminal fluid.\"\n\n\"Is this a difference between sperm cells and seminal fluid?\"\n\n\"Yes, those are two different things.\""
+    },
+    {
+      "id": "2117641811896512519",
+      "created_at": "2026-11-03T15:35:26Z",
+      "text": "\"Next slide. What is this doctor?\"\n\n\"This is item 2-2 the ligature that was presented to the lab for testing.\"\n\n\"What if anything is important to you about the condition of the ligature there?\"\n\n\"It is bagged in plastic.\""
+    },
+    {
+      "id": "2117642000098898138",
+      "created_at": "2026-11-03T15:36:11Z",
+      "text": "\"Are you familiar with how items should be processed for DNA testing?\"\n\n\"Yes.\"\n\n\"How should this item be preserved?\"\n\n\"Typically they have to be in breathable paper if they are biological samples.\"\n\nInteresting."
+    },
+    {
+      "id": "2117642197231161535",
+      "created_at": "2026-11-03T15:36:58Z",
+      "text": "\"What effect might that have on testing?\"\n\n\"Well, one always thinks about transference of DNA from one area to another on an item like that so how can you package this item without allowing any transfer, I have no idea. But you have to contend with the fact that if different parts teach other then there might be transfer.\""
+    },
+    {
+      "id": "2117642660420755496",
+      "created_at": "2026-11-03T15:38:48Z",
+      "text": "\"Let's talk about the DNA testing in the case. Let's talk about the ligature. What did you find?\"\n\n\"Well, the lab tested that sample with both STR with Y-STR...the two methods we talked about.\"\n\n\"Let's start with STR.\"\n\n\"The lab says the STR was four contributors including male DNA, and Sandra Birchmore was assumed as one of the contributors. The DNA conclusions of the support for the hypothesis that Matthew Farwell is included in that mixture.\"\n\n\"You said Sandra Birchmore was included?\"\n\n\"Yes, she was assumed, which is different than included. If someone is assumed you are literally telling their software the DNA is there for that person as a fact.\""
+    },
+    {
+      "id": "2117642852318531589",
+      "created_at": "2026-11-03T15:39:34Z",
+      "text": "\"Does that increase or decrease the odds generated at the end of the process?\"\n\n\"It depends. The statistic you are seeing for Matthew Farwell is contingent on that assumption. Meaning you have already solved a big problem for the software by saying Sandra Birchmore's DNA is there.\""
+    },
+    {
+      "id": "2117642931012256139",
+      "created_at": "2026-11-03T15:39:53Z",
+      "text": "Sidebah!"
+    },
+    {
+      "id": "2117643519267365150",
+      "created_at": "2026-11-03T15:42:13Z",
+      "text": "The doctor goes back to his explanation where Sandra is assumed to be a contributor.\n\n\"Did the strap check for MJ?\"\n\n\"Yes, slight exclusion.\"\n\n\"What about Jason Pickard?\"\n\n\"Yes. The result was a slight exclusion.\"\n\n\"So do we have any information as to the other two unknown individuals are that contributed to the ligature?\" \n\n\"No.\""
+    },
+    {
+      "id": "2117643685127188774",
+      "created_at": "2026-11-03T15:42:53Z",
+      "text": "\"What about the Y-STR test?\"\n\n\"Yes, the lab found 4 males and a major contributor that they said supported Matthew Farwell. Here they discern major and minor, and they decline to interpret the latter.\""
+    },
+    {
+      "id": "2117644002589614195",
+      "created_at": "2026-11-03T15:44:08Z",
+      "text": "\"What if there is a missing male in this mixture and now we have 5?\"\n\n\"You can't tell that from the results.\"\n\n\"Can StarMix compute a mixture for 5 males?\"\n\n\"We're talking about STR!\"\n\n\"Oh, you're right, not StarMix, STR, can starmix compute a mixture of 5 males?\"\n\n\"Well, no StarMix doesn't test for DNA.\""
+    },
+    {
+      "id": "2117644352755228893",
+      "created_at": "2026-11-03T15:45:32Z",
+      "text": "\"Is this your raw data?\"\n\n\"No, it is from the MSP lab.\"\n\n\"What is your view on the STR data from the ligature?\"\n\n\"It is a very complex mixture. There is a lot of female DNA compared to male DNA. The sex determination method shows a disparity between the height of the X and the Y. More female than male. At the same time, the bottom right shows a marker that has allele 17 and 19, that is a y chromosome marker. It is actually included in this particular testing kit. There are a few y chromosome markers included and based on that marker there are at least two males in this mixture.\""
+    },
+    {
+      "id": "2117644555537313868",
+      "created_at": "2026-11-03T15:46:20Z",
+      "text": "\"What is a deconvolution report?\"\n\nSummarizing;\n\nA STRmix deconvolution report is a comprehensive document generated by STRmix, an advanced forensic software program. It presents the mathematical breakdown, or untangling of a complex DNA mixture from multiple contributors into individual genetic profiles"
+    },
+    {
+      "id": "2117644640811983207",
+      "created_at": "2026-11-03T15:46:40Z",
+      "text": "\"Who is the 90% identified as here on the STR DNA?\"\n\n\"Ms. Birchmore.\""
+    },
+    {
+      "id": "2117644850153525282",
+      "created_at": "2026-11-03T15:47:30Z",
+      "text": "\"What is this page?\"\n\n\"The panel on the right hand side is when Mr. Farwell was looked at by STRmix, and he would account, if it's him, he would account for 5% of the sample on the ligature.\"\n\n\"Was Mr. William Farwell's DNA tested for in the context of this sample?\"\n\n\"Yea.\""
+    },
+    {
+      "id": "2117645421929521505",
+      "created_at": "2026-11-03T15:49:47Z",
+      "text": "\"What is this slide?\"\n\n\"This is more about the deconvolution for the 5% contributor and this shows you the probability determination for each genotype determination. On the right is the known profiles from Matthew Farwell and Sandra Birchmore.\"\n\n\"How come you circled the one with the lowest weight as to highest weight?\"\n\n\"What I'm circling is the genotypes that are consistent with Matthew Farwell. Each red rectangle points at what Mr. Farwell has in his DNA, so the second panel down, we know that his known profile has an 11/17.3 and strrmix found that is not the most favored combination.\"\n\n\"Was it nonetheless used?\"\n\n\"Well, yes, whenever someone is not the highest probability, the statistic gets penalized a little bit. A 11/17 combination is not impossible, it just favors 11/15 at that marker.\""
+    },
+    {
+      "id": "2117645789618995600",
+      "created_at": "2026-11-03T15:51:14Z",
+      "text": "\"What chooses that weight?\"\n\n\"No one chooses it. The software found that the highest probability combination at the first marker is a 16/18, and he has a 16/18, Matthew Farwell has that combination, but if you look at the next marker is goes to 11/15, and he doesn't have 11/15, he has 11/17.3, and that does not lead to exclusion, it just reduces the ranking.\""
+    },
+    {
+      "id": "2117646021505212761",
+      "created_at": "2026-11-03T15:52:10Z",
+      "text": "\"What percent is Matthew Farwell here?\"\n\n\"4.2%\"\n\n\"What about at d-7, where did Mr. Farwell's numbers fall?\"\n\n\"8% for a combination 12/12 which he has in the DNA.\""
+    },
+    {
+      "id": "2117646446149169248",
+      "created_at": "2026-11-03T15:53:51Z",
+      "text": "\"What do we see here about Y-STR ligature DNA?\"\n\n\"This is the Y-STR profile from the ligature where the lab found 4 male contributors and what we're seeing here is where the analyst found a major contributor in this mixture and I disagree with their conclusion.\"\n\n\"Objection.\"\n\n\"In a word?\"\n\n\"Notice.\"\n\n\"Sustained.\"\n\n\"It's in his report.\"\n\n\"Objection!\"\n\n\"Counsel, let's move on so I can hear you when the jury is out of the box.\"\n\n\"Okay, your honor, thank you.\""
+    },
+    {
+      "id": "2117646640589021349",
+      "created_at": "2026-11-03T15:54:37Z",
+      "text": "\"Counsel, does it make sense to take our break now?\"\n\nYes, Judge, save us!\n\nSidebah!"
+    },
+    {
+      "id": "2117647232144916498",
+      "created_at": "2026-11-03T15:56:58Z",
+      "text": "Morning break!\n\nGod bless you all, thank you for your support of my work!\n\nVenmo: https://t.co/aS1seZF8GX\n\nPaypal = https://t.co/T02firtvgK https://t.co/SnzCWHCLdW"
+    },
+    {
+      "id": "2117648052697583812",
+      "created_at": "2026-11-03T16:00:14Z",
+      "text": "\"Counsel, I wasn't able to do all of the math on WhisperTech, the only thing I am debating is whether I should say something to the jury about the shorter day today and counsel, if there were an hour 1:20 plus 30 whether they want to just push through instead of lunch. Any position counsel?\"\n\n\"No position your honor.\"\n\n\"I'll need to raise this with Ms. Cook when she comes back.\"\n\n\"Counsel, there was an objection.\"\n\n\"Yes, your honor, in the 12 page report he gives no affirmative opinions about YSTR or STR testing results. He critiques their methods and does not opinion on the results because he is not qualified, of course, to do so.\"\n\n\"Okay, counsel, just one second.\"\n\n\"Your honor, this expert has never said or opined that the defendant is not the cxontreibuot to the STR profile. He offered that on his own. That was not noticed.\"\n\n\"Your honor, it's on his report, page 8, section 3.\""
+    },
+    {
+      "id": "2117648473801564628",
+      "created_at": "2026-11-03T16:01:54Z",
+      "text": "\"Counsel, I think so far he has been giving a critique, but to the extent their was an unnoticed opinion, I sustain the objection. Counsel, to the extent he offered something you weren't expecting, please direct him not to do that.\"\n\n\"Of course your honor. May I switch to having him go to his report to save time instead of the slides?\"\n\n\"That's fine.\"\n\n\"I had Ms. Cook, counsel, ask the jury, and I said let's do 30 minutes now and push through when we come back or should we take lunch.\"\n\n\"Let's go with their preference.\""
+    },
+    {
+      "id": "2117649731933336003",
+      "created_at": "2026-11-03T16:06:54Z",
+      "text": "\"Counsel, as to my final thoughts on the jury charge, this is page 22-23 of the red lined version, this was in response to the government's request as to Fowler. The revision I made here is in line with the language of Fowler and the language in the pattern instruction and also the sentence from Fowler that the defense requested. To the extent the government wants more, I have not done so, to the extent the defense objects to this as written, that is overruled. It is the language from Fowler.\"\n\n\"Your honor can we be heard?\"\n\n\"Yes.\"\n\n\"Our position that these words, while they do appear in Fowler, the order is relevant. Following that language in Fowler, looking at 674, it distorts the government's burden of proof.\"\n\n\"Counsel, I hear the point, but on page 678, the court addresses the case we have here by saying the following\"\n\n'We consequently hold that (in a case such as this one where the defendant does not have particular federal law enforcement officers in mind) the Government must show a reasonable likelihood that, had, e.g., the victim communicated with law enforcement officers, at least one relevant communication would have been made to a federal law enforcement officer. That is to say, where the defendant kills a person with an intent to prevent communication with law enforcement officers generally, that intent includes an intent to prevent communications with federal law enforcement officers only if it is reasonably likely under the circumstances that (in the absence of the killing) at least one of the relevant communications would have been made to a federal officer.'\n\n\"So, counsel, that was my thinking on that.\""
+    },
+    {
+      "id": "2117650301226250286",
+      "created_at": "2026-11-03T16:09:10Z",
+      "text": "\"And, your honor, the court just quoted what I think is the language from Fowler which says at least one relevant communication but I don't think that wording is in the court's instruction.\"\n\n\"That's not what it says. It says at least one relevant communication.\"\n\n\"Yes, your honor, I'm sorry I reversed the wording.\""
+    },
+    {
+      "id": "2117650624388927965",
+      "created_at": "2026-11-03T16:10:27Z",
+      "text": "\"This is US V Elk, your honor, 2026 from the 8th circuit,\"\n\nQuote Daley is reading;\n\n\"In such cases, where the defendant does not have a particular federal law enforcement officer in mind, “the Government must show a reasonable likelihood that, had, e.g., the victim communicated with law enforcement officers, at least one relevant communication would have been made to a federal law enforcement officer.” Fowler, 563 U.S. at 677, 131 S.Ct. 2045. “That is to say, where the defendant” uses physical force as a threat against “a person with an intent to prevent communication with law enforcement officers generally, that intent includes an intent to prevent communications with federal law enforcement officers only if it is reasonably likely under the circumstances that ․ at least one of the relevant communications would have been made to a federal officer.” Id. at 677–78, 131 S.Ct. 2045. “The Government need not show that such a communication, had it occurred, would have been federal beyond a reasonable doubt, nor even that it is more likely than not.” “But it must do more than show the commission of a federal offense; it ‘must show that the likelihood of communication to a federal officer was more than remote, outlandish, or simply hypothetical.’ ” United States v. Mendez, ––– F.4th ––––, ––––, No. 25-2127, 2026 WL 2040559, at *3 (8th Cir. Jul. 3, 2026) (quoting Fowler, 563 U.S. at 678, 131 S.Ct. 2045).\"\n\nCite - https://t.co/C4Zv0fGc9Q"
+    },
+    {
+      "id": "2117650950395466136",
+      "created_at": "2026-11-03T16:11:45Z",
+      "text": "\"Counsel, I'll look at the case, but I think from what you've quoted to me, I have captured that from Fowler in my wording. Counsel, give me a moment, Ms. Cook what did they say?\"\n\n\"The jury wants to push through so they can have until 11:30AM for break then we'll go through until 1PM. Does the government want to be heard further?\"\n\n\"No your honor, the court has everything it needs from Fowler.\""
+    },
+    {
+      "id": "2117651170063765703",
+      "created_at": "2026-11-03T16:12:37Z",
+      "text": "\"Counsel, I'll look at Elk and then render a final final on that. I was reserving. I didn't give you a clean copy otherwise because I know I'm reserving on the Lop[er related issue. I'll give you another clean copy once I work through that and I consider Elk. 18 minute break!\"\n\n\"All rise!\""
+    },
+    {
+      "id": "2117651385105952955",
+      "created_at": "2026-11-03T16:13:28Z",
+      "text": "God bless you all. Break for real this time!\n\nThank you for supporting my word.\n\nVenmo: https://t.co/aS1seZFGwv\n\nPaypal = https://t.co/T02firu36i https://t.co/doEsHbI5dc"
+    },
+    {
+      "id": "2117654811663274186",
+      "created_at": "2026-11-03T16:27:05Z",
+      "text": "Update;\n\nI met a lovely woman on break who was lost on her way to the ICA museum.\n\nI helped her find her way.\n\nHer daugther went to journalism school at Columbia and worked on the south coast in Massachusetts.\n\nIf that's you, I helped your mom! She is wonderful."
+    },
+    {
+      "id": "2117655567590137947",
+      "created_at": "2026-11-03T16:30:06Z",
+      "text": "5 minute extra towel break.\n\nA cigah is called for.\n\nThat was a morning. I learned some new words, though!"
+    },
+    {
+      "id": "2117656278096855219",
+      "created_at": "2026-11-03T16:32:55Z",
+      "text": "Following Kristina Rex's advice and limiting myself to one Celsius. https://t.co/LF77k0DYkI"
+    },
+    {
+      "id": "2117656905069871141",
+      "created_at": "2026-11-03T16:35:24Z",
+      "text": "\"Towel, what did you learn while doing shoeleather journalism alongside @KristinaRex?\"\n\n\"Limit yourself to one Celsius a day, time your questions, and, when necessary, gobble like a turkey to announce the presence of Robert Cosgrove.\""
+    },
+    {
+      "id": "2117657278354460902",
+      "created_at": "2026-11-03T16:36:53Z",
+      "text": "Alright I'm going to mosey inside.\n\nKim Steven's dulled my brain.\n\n4 minutes or so."
+    },
+    {
+      "id": "2117659444980912252",
+      "created_at": "2026-11-03T16:45:30Z",
+      "text": "I have a message to anyone who thinks Brian Tully and John Fanning's coverup of Sandra Birchmore murder is going away due to artifical drama via the use of F-team PI's and CI's;\n\nGame on. https://t.co/3mZLh7H3L9"
+    },
+    {
+      "id": "2117660295271195032",
+      "created_at": "2026-11-03T16:48:53Z",
+      "text": "I got delayed on the way in for an important public service announcement."
+    },
+    {
+      "id": "2117660741377446217",
+      "created_at": "2026-11-03T16:50:39Z",
+      "text": "\"How quickly does semen degrade in a mouth?\"\n\n\"It lasts for a longer time in the mouth.\""
+    },
+    {
+      "id": "2117660899251011588",
+      "created_at": "2026-11-03T16:51:17Z",
+      "text": "\"I ask counsel to instruct the witness, your honor.\"\n\n\"Yes, sir, listen to Ms. Stevens and just answer the question.\"\n\nThe witness tried to offer an opinion on the conclusions rather than the methodology. It was struck."
+    },
+    {
+      "id": "2117661117057278290",
+      "created_at": "2026-11-03T16:52:09Z",
+      "text": "The witness has switched away from his powerpoint. He is now reading from his report.\n\nThis is, somehow, worse, as now we can't see anything on screen.\n\nMs. Pickard and Mr. Farwell's DNA were found on one sample, the witness confirms."
+    },
+    {
+      "id": "2117661721988850049",
+      "created_at": "2026-11-03T16:54:33Z",
+      "text": "\"What was sample b-1 and it's conclusion?\"\n\n\"This is a Y-STR result and the lab found it is not suitable for comparison.\"\n\n\"Next, sample b-1 front crotch fraction 1?\"\n\n\"The lab did Y-STR testing and found mixture of two males but the profile was not suitable for comparison.\"\n\n\"Back to the ligature we talked about y-str, not STR data, on page 8, number 4, what did the results show there?\"\n\n\"For the ligature, the STR testing from the lab, it is a mixture of 4 contributors. It assumed the presence of Ms. Birchmore. With StarMix computations were 90, 5, 3, and 2 percent. StarMix found that 96 was Ms. Birchmore, and Mr. farwell if included he would be the 5%.\""
+    },
+    {
+      "id": "2117661867703493111",
+      "created_at": "2026-11-03T16:55:08Z",
+      "text": "\"Who are the other two?\"\n\n\"We don't know.\"\n\n\"Objection, relevance.\"\n\n\"Sustained.\"\n\n\"Are there two missing profiles from this mixtures of four?\"\n\n\"I'd characterize it as two unknown people.\""
+    },
+    {
+      "id": "2117662064940613766",
+      "created_at": "2026-11-03T16:55:55Z",
+      "text": "\"The investigations have revealed that Ms. Birchmore was sexually active...\"\n\n\"Objection!\"\n\n\"You can ask a direct exam question.\"\n\n\"Are Matthew Farwell and Billy Farwell expected to have the same Y-STR profile?\"\n\n\"Yes.\"\n\n\"Did you get a sample of William Farwell's DNA?\"\n\n\"To my knowledge, William Farwell was not tested.\""
+    },
+    {
+      "id": "2117662265709404563",
+      "created_at": "2026-11-03T16:56:43Z",
+      "text": "\"Did the lab conduct any assessments on the topic of kinship?\"\n\n\"Objection.\"\n\n\"Rephrase.\"\n\n\"What assessments on the topic of kinship were done by the lab?\"\n\n\"I didn't find any such assessments in their validation.\"\n\n\"A moment, your honor?\"\n\n\"You may.\""
+    },
+    {
+      "id": "2117662786616537246",
+      "created_at": "2026-11-03T16:58:47Z",
+      "text": "\"How many potential contributors are in the STR profile on the ligature?\"\n\n\"At least 4.\"\n\n\"Could there be 5?\"\n\n\"Objection.\"\n\n\"Point me to the report, counsel, on this point? Could you?\"\n\nLong pause. Ms. Stevens shuffles paper.\n\n\"Page 5 into the top of your honor.\"\n\n\"My objection was to form your honor.\"\n\n\"Your honor, he underlined in subsection 6.\"\n\n\"Counsel, not on notice?\"\n\n\"Form your honor.\"\n\n\"You can rephrase.\""
+    },
+    {
+      "id": "2117662878924767652",
+      "created_at": "2026-11-03T16:59:09Z",
+      "text": "\"Is it possible there are 5 contributors?\"\n\n\"It is possible.\"\n\n\"That's all we have your honor.\"\n\n\"Recross.\""
+    },
+    {
+      "id": "2117663309302264313",
+      "created_at": "2026-11-03T17:00:51Z",
+      "text": "\"Doctor, you told this jury that sperm fractions can include DNA that is not sperm?\"\n\n\"Yes.\"\n\n\"And you said sperm fractions can contain female DNA?\"\n\n\"It is possible, yes.\"\n\n\"And when counsel asked you if there were sperm cells taken from Ms. Birchmore's mouth, you said yes and the smiled, what were you trying to convey?\"\n\n\"Objection!\"\n\n\"Rephrase.\"\n\n\"What were you trying to convey?\"\n\n\"It was a sperm fraction. I was stating fact.\"\n\n\"And sperm cells can include DNA that is not sperm?\"\n\n\"Yes.\"\n\n\"And sperm fractions can include female DNA?\"\n\n\"Yes.\"\n\n\"So this does include any evidence of sperm?\"\n\n\"Yes.\""
+    },
+    {
+      "id": "2117663776069812409",
+      "created_at": "2026-11-03T17:02:43Z",
+      "text": "\"And you are not certified or qualified to direct, address or interpret DNA?\"\n\n\"Yes.\"\n\n\"And only then can you reach conclusions about DNA?\"\n\n\"In a forensic laboratory.\"\n\n\"And only then can someone write reports?\"\n\n\"Yes.\"\n\n\"You do not have that certification do you?\"\n\n\"I don't work in a forensic lab.\"\n\n\"That's my next question, you don't work in such a lab, do you?\"\n\n\"No.\"\n\n\"And your lab is not accredited?\"\n\n\"It is not.\"\n\n\"By the state police crime lab is?\"\n\n\"Yes.\"\n\n\"You're also not a forensic science practionerer?\" \n\n\"No.\""
+    },
+    {
+      "id": "2117664241842868309",
+      "created_at": "2026-11-03T17:04:34Z",
+      "text": "\"Has the FBI approved you to work anywhere under that qualification?\"\n\n\"No, I don't work for a forensic lab or the FBI.\"\n\n\"You get hired to present evidence on DNA, by attorneys?\"\n\n\"I get asked to review case work and if asked I testify.\"\n\n\"And you get asked to testify in a number of cases, including one involving acne?\"\n\n\"I did testify in such a case.\""
+    },
+    {
+      "id": "2117664380594590123",
+      "created_at": "2026-11-03T17:05:07Z",
+      "text": "Ms. Riley is going so fast right now. This is wild."
+    },
+    {
+      "id": "2117664432822407526",
+      "created_at": "2026-11-03T17:05:19Z",
+      "text": "This might be the case in question.\n\nhttps://t.co/GLsmZEKMoW"
+    },
+    {
+      "id": "2117664778038522198",
+      "created_at": "2026-11-03T17:06:42Z",
+      "text": "\"You didn't analyze the data in this case?\"\n\n\"Correct, I did not.\"\n\n\"You did not test the underwear?\"\n\n\"No.\"\n\n\"You did not test the ligature?\"\n\n\"You could have, correct?\"\n\n\"Objection.\"\n\n\"Sustained as to this question.\"\n\n\"Even if you could have asked for them, you don't test items, right?\"\n\n\"Right, I would have sent them to a private lab.\""
+    },
+    {
+      "id": "2117665074533831062",
+      "created_at": "2026-11-03T17:07:52Z",
+      "text": "\"And you're not here to offer an opinion on any of the results of this case?\"\n\n\"Objection.\"\n\n\"Sustained on this.\"\n\n\"The powerpoint you used was from actual DNA analysts in this case?\"\n\n\"By the lab, yes.\"\n\n\"And you were asked about general practices of lab and you were asked about whether or not contamination can happen, but there's no evidence in this case of that, right?\"\n\n\"Not in this case no.\"\n\n\"And you know that Ms. Duvall required us all to give DNA samples before entering her lab to avoid contaminating the evidence?\"\n\n\"I am not aware of that story.\""
+    },
+    {
+      "id": "2117665153022153066",
+      "created_at": "2026-11-03T17:08:11Z",
+      "text": "This cross is basically this. https://t.co/JcfsfrUkCB"
+    },
+    {
+      "id": "2117665398858617322",
+      "created_at": "2026-11-03T17:09:10Z",
+      "text": "\"Doctor, you never wrote a report offering any opinions as to the absence or presence of any major contributors?\"\n\n\"Objection.\"\n\n\"Sustained, the issue of notice is for me, not the jury, counsel.\""
+    },
+    {
+      "id": "2117665838614409351",
+      "created_at": "2026-11-03T17:10:54Z",
+      "text": "\"You testified about swaps from Ms. Birchmore's underwear?\"\n\n\"Yes.\"\n\n\"Anal swaps?\"\n\n\"Yes.\"\n\n\"Vaginal swaps?\"\n\n\"Yes.\"\n\n\"Perianal swaps?\"\n\n\"I don't...may I refer to my notes?\"\n\n\"You may.\"\n\n\"Genital swaps?\"\n\n\"Yes.\"\n\n\"Oral swaps?\"\n\n\"Yes.\"\n\n\"Perianal swaps?\"\n\n\"Yes.\"\n\n\"And those were collected on Feb 26, 2021, correct?\"\n\n\"I can't remember.\"\n\n\"Would looking at the report help refresh your recollection.\"\n\n\"Yes, please.\""
+    },
+    {
+      "id": "2117666156320358771",
+      "created_at": "2026-11-03T17:12:10Z",
+      "text": "\"Doctor, those were collected on Feb 26, 2021, right?\"\n\n\"Yes.\"\n\n\"And that was 21 days after autopsy?\"\n\n\"Yes.\"\n\n\"And that was after Ms. Birchmore's body had been processed according to non suspicious death standards?\"\n\n\"Yes.\"\n\n\"Her organs, fetal tissue, uterus and other organs had been removed, and her mouth had been opened, that is when those swaps were collected, is that accurate?\"\n\n\"Yes.\""
+    },
+    {
+      "id": "2117666674354884770",
+      "created_at": "2026-11-03T17:14:14Z",
+      "text": "\"You talked about sperm on Ms. Birchmore's underwear, and you said it can persist through laundry?\"\n\n\"Yes.\"\n\n\"So you can't tell the jury when the defendant's sperm ended up on Ms. Birchmore's underwear?\"\n\n\"Objection, form.\"\n\n\"Sustained.\"\n\n\"Was the defendant's sperm found on stain e of Ms. Birchmore's underwear?\"\n\n\"Yes, there's evidence to support that?\"\n\n\"And on stain j-2 of the underwear?\"\n\n\"I can't answer that question.\"\n\n\"Tell me why.\"\n\n\"This is a mixture of multiple people so to attribute sperm to an individual is beyond the realm of this type of testing.\"\n\n\"Do you agree that the defendan'ts DNA was found in stain j-2 on Ms. Birchmore's underwear.\"\n\n\"There is support for that conclusion and positive results for sperm, but attributing a person to a sperm, I can't..I don't know how to do that.\"\n\nlol"
+    },
+    {
+      "id": "2117667428507300205",
+      "created_at": "2026-11-03T17:17:13Z",
+      "text": "\"And you don't know how or when the defendant's sperm got there?\"\n\n\"Correct.\"\n\n\"So it could have been left there at any point during their sexual relationship?\"\n\n\"I don't know, my conclusion was there was no positive result for seminal fluid. When it got there I have no idea.\"\n\n\"It could have ended up there on Feb 1st, 2021?\"\n\n\"I have no idea.\"\n\n\"It is impossible that it ended up there on Feb 1st, 2021?\"\n\n\"Not impossible.\"\n\n\"Is it impossible that it ended up there on Jan 31, 2021?\"\n\n\"The only issue that has to be reconciled is that you're not detecting seminal fluid. The lab is detecting sperm. What is the form of that biological material and when did it arrive there, there's negative results for seminal fluid.\n\n\"My question for you doctor, whatever type of DNA it is, it could have ended up there on Feb 1st, 2021?\"\n\n\"It could be.\"\n\n\"Could the defendant's DNA have got there Jan 31st, 2021, it's possible.\"\n\n\"The 49 visits they had in the two years proceeding?\"\n\n\"Objection.\"\n\n\"Sustained.\"\n\n\"Could it have landed there on April 10th, 2013.\"\n\n\"Objection.\"\n\n\"Sustained.\"\n\n\"How long could the DNA have been on Ms. Birchmore's underwear?\"\n\n\"For decades! That's why you can't use DNA for a time range!\""
+    },
+    {
+      "id": "2117667800919486706",
+      "created_at": "2026-11-03T17:18:42Z",
+      "text": "\"Some labs you have been hired to critique assume contributors?\"\n\n\"I don't get hired to critique labs, I get hired to evaulate and review evidence.\"\n\n\"Other labs you have been hired to evaluate and review use assumed contributors?\"   \n\n\"Yes, they have procedures to do so.\"\n\n\"And the MSP crime lab has such procedures?\"\n\n\"Yes.\"\n\n\"And assuming such DNA profiles when the ligature is on someone's neck is standard practice?\"\n\n\"Yes, but there has to be some thought or reasonableness going into that interpretation.\""
+    },
+    {
+      "id": "2117667922927821159",
+      "created_at": "2026-11-03T17:19:11Z",
+      "text": "\"And you were offered an opportunity to look more at the evidence in this case?\"\n\n\"Objection!\"\n\n\"I was not.\"\n\n\"Overruled, the answer can stand.\"\n\n\"I was not.\""
+    },
+    {
+      "id": "2117668579097051570",
+      "created_at": "2026-11-03T17:21:48Z",
+      "text": "\"The lab didn't just assume here, as you just told us about with Stain E, isn't that right?\"\n\n\"The lab, in this case, should have endeavored to show empirically the evidence of the sperm fraction...\"\n\n\"Doctor, that's exactly what the lab did here, right, they assumed her and then verified she was there?\"\n\n\"No, they assumed her and that's it. They never went back and recalculated an empirical result.\"\n\n\"Doctor, they manually verified she was there, right?\"\n\n\"How did that happen?\"\n\n\"You didn't read that part of the analysis?\"\n\n\"Well yes, but why can't use STRMix for what it is designed to do.\"\n\n\"Counsel, and sir, you may be losing the jury here!\" \n\nlol"
+    },
+    {
+      "id": "2117668785020916079",
+      "created_at": "2026-11-03T17:22:37Z",
+      "text": "\"In fact, doctor, in Stain E, they assumed she was there, right?\"\n\n\"Just one moment.\"\n\nThe witness stubbornly reads his document very slowly."
+    },
+    {
+      "id": "2117669299233886688",
+      "created_at": "2026-11-03T17:24:39Z",
+      "text": "\"So Stain E, you're asking about stain E?\"\n\n\"Yes.\"\n\n\"They assumed she was there, as to the sperm fraction, right?\"\n\n\"No.\"\n\n\"They didn't start by assuming she was there?\"\n\n\"No, they did an empirical calculation.\"\n\n\"They assumed she was there, then did an empirical calculation, and determined she was not there, right?\"\n\n\"Yes.\"\n\n\"Then they were able to run the numbers correctly\"\n\n\"Well the correct approach is to do exclusion. Then to do the empirical calculation to see what STrmix produces and when STRmix looked at the miture vis a vie Ms. Birchmore the software came up with a exclusion.\" \n\n\"You're not telling the jury that had Ms. Birchmore not been assumed the numbers for Mr. Farwell would have gone from 6.2 trillion to exclusion, are you?\"\n\n\"I am not saying that.\""
+    },
+    {
+      "id": "2117669641984283101",
+      "created_at": "2026-11-03T17:26:01Z",
+      "text": "This is Liz Riley on cross."
+    },
+    {
+      "id": "2117669974512746740",
+      "created_at": "2026-11-03T17:27:20Z",
+      "text": "We see a picture of the clothes between Sandra's legs on the autopsy table.\n\n\"You were asked if her underwear was in that bag right?\"\n\n\"Yes.\"\n\n\"But her underwear is not in that bag right?\"\n\n\"Objection!\"\n\n\"Foundation?\"\n\n\"Yes.\"\n\n\"Okay, it's struck, counsel?\"\n\n\"You're aware that Dr. Capo-Martinez testified that underwear did not travel in that bag?\"\n\n\"Objection your honor may we be heard?\"\n\n\"I'll hear you!\"\n\nSidebah!"
+    },
+    {
+      "id": "2117670643835539520",
+      "created_at": "2026-11-03T17:30:00Z",
+      "text": "\"Jurors, I'll allow this series of questions, but it is your memory that governs.\"\n\n\"Doctor, have you looked at the custody forms related to Ms. Birchmore's underwear?\"\n\n\"I believe so.\"\n\n\"And is your memory exhausted as to if the underwear traveled in the bag?\"\n\n\"I think it did, but I'm not sure.\"\n\n\"Why did you think that?\"\n\n\"The files.\"\n\n\"So if a document said the underwear traveled separately would that help you refresh your recollection?\"\n\n\"Of course.\""
+    },
+    {
+      "id": "2117670741957042647",
+      "created_at": "2026-11-03T17:30:23Z",
+      "text": "The witness slowly, and stubbornly, reads the document.\n\nHe looks mahd."
+    },
+    {
+      "id": "2117670859993403796",
+      "created_at": "2026-11-03T17:30:52Z",
+      "text": "\"Doctor, does that refresh your recollection as to how the underwear traveled?\"\n\n\"Yes, it traveled in the sexual assault kit. It was not with the other clothing.\"\n\nLong pause.\n\nBoom. Headshot."
+    },
+    {
+      "id": "2117671027157409937",
+      "created_at": "2026-11-03T17:31:31Z",
+      "text": "https://t.co/tBfVHny1fT"
+    },
+    {
+      "id": "2117671077711069485",
+      "created_at": "2026-11-03T17:31:44Z",
+      "text": "https://t.co/25gqmIa2df"
+    },
+    {
+      "id": "2117671529727103429",
+      "created_at": "2026-11-03T17:33:31Z",
+      "text": "\"Doctor, with respect to the STR testing on the ligature you said Ms. Birchmore was in the data at a 90% rate and the defendant was a 5% contributor?\" \n\n\"Yes.\"\n\n\"Then you told the jury that Ms. Pickard was slightly excluded, yes?\"\n\n\"Yes.\"\n\n\"That's when you were showing us the very small numbers where, in some boxes Mr. Pickard was in the top and bottom, is that right?\"\n\n\"But is no STRmix mixture was Mr. Pickard excluded?\"\n\n\"Right.\"\n\n\"He was included in every mixture and every result?\"\n\n\"Yes.\"\n\nYikes. Just wild."
+    },
+    {
+      "id": "2117671846292181022",
+      "created_at": "2026-11-03T17:34:47Z",
+      "text": "\"You saw results about the inclusion of the defendant in the DNA testing, but you said the lab went beyond their capability by doing STR testing on a 4 person sample?\"\n\n\"Yes, by looking at a contributor from a partial profile and then interpreting it yes.\"\n\n\"But that process was governed by the quality assurance standards?\"\n\n\"Meaning?\"\n\n\"It's common for labs to pull out major profiles from STR testing?\"\n\n\"Yes.\"\n\n\"And they can do so when there are 4 contributors, right?\"\n\n\"This is very rare, when there are at least 4 males. This is very rare.\""
+    },
+    {
+      "id": "2117672418210673118",
+      "created_at": "2026-11-03T17:37:03Z",
+      "text": "\"Well, Ms. Birchmore's profile was 90%, right?\"\n\n\"Yes.\"\n\n\"And the defendant's was 5%?\"\n\n\"Yes.\"\n\n\"And so, despite that the defendant is half the DNA left on the ligature when Ms. Birchmore is removed, you still found it surprising when they attempted to pull out the major contributor?\" \n\n\"5% not 50%.\"\n\n\"5 is 50% of 10 isn't it doctor?\"\n\n\"Well yes, but that's a weird way to say it.\"\n\n\"That's the entire point of YSTR testing doctor, is it not?\"\n\n\"What?\"\n\n\"The point is you can knock out the female DNA and then look at the male DNA?\"\n\n\"Yes, you're only amplifying DNA from the male contributors.\"\n\n\"And in this case, when Ms. Birchmore's DNA was taken out, the major contributor was the DNA of the defendant.\"\n\n\"That's what I take issue with.\""
+    },
+    {
+      "id": "2117672930054181346",
+      "created_at": "2026-11-03T17:39:05Z",
+      "text": "\"And you're aware the state police lab always lists the minimum number of contributors?\"\n\n\"Yes.\"\n\n\"And there's no 5th profile found?\"\n\n\"Right.\"\n\n\"Because if there was a 5th they wouldn't have tested it?\"\n\n\"Right.\"\n\n\"And, given that there were 4, Ms. Duvall did the interpretation?\"\n\n\"Right, at least 4.\"\n\n\"And there was no fifth?\"\n\n\"We don't know the maximum number. That's a standard interpretation of language.\"\n\n\"It was at least 4, and then Ms. Duvall followed the protocls and had that reviewed by the technical lead?\"\n\n\"She needed special permission, yes.\"\n\n\"And the technical lead validated her work?\"\n\n\"He denoted the lab file as to proceed with that interpretation. That is in the lab protocols they have to ask permission from the technical lead.\"\n\n\"And that's exactly what she did?\"\n\n\"yes.\""
+    },
+    {
+      "id": "2117673425032339797",
+      "created_at": "2026-11-03T17:41:03Z",
+      "text": "\"As to the STR testing, the next highest amount of DNA after Ms. Birchmore was the defendant, correct?\"\n\n\"What does that mean?\"\n\n\"345 RFU's from the defendant were on the strap right?\"\n\n\"Well, that can be the same as the amount but you need the quantiation for that.\"\n\n\"Is 345 RFU a trace amount of DNA?\"\n\n\"It is a trace amount.\"\n\n\"Doesn't the FBI lab say 120 RFU is trace?\"\n\n\"Yes, that's trace amounts.\"\n\n\"So even if the FBI standards say 340 RFU is not trace, but you say it is?\"\n\n\"Can you show me a document? I don't know what you're talking about.\"\n\n\"I'm not going to show you a document, doctor.\"\n\nLol"
+    },
+    {
+      "id": "2117673783490482461",
+      "created_at": "2026-11-03T17:42:29Z",
+      "text": "\"Was Mr. William Farwell ever with Sandra Birchmore on Feb 1st, 2021, based on your review of the data?\"\n\n\"No, he was not.\"\n\n\"And William and Matthew Farwell have entirely different DNA profiles?\"\n\n\"Well, yes, they are just like any siblings and they have distinct DNA.\"\n\n\"They share, like any siblings, 31-67% of their DNA?\"\n\n\"I've seen the number go up and down.\"\n\n\"But fraternal twins don't have 100% of their siblings DNA?\"\n\n\"I've heard of literature, I don't know the name, but it's theoretically possible. I've never seen it before.\""
+    },
+    {
+      "id": "2117673973786062950",
+      "created_at": "2026-11-03T17:43:14Z",
+      "text": "\"Assuming William Matthew Farwell are not the one case in the unnamed journal, they share about 31-64% of their DNA?\"\n\n\"I would need to look at William Farwell's DNA.\"\n\n\"But the DNA results in this case are related to Matthew Farewell right?\"\n\n\"Yes.\""
+    },
+    {
+      "id": "2117674441928847683",
+      "created_at": "2026-11-03T17:45:06Z",
+      "text": "\"You were asked about a lack of testing for William Farwell impacting testing for Matthew Farwell?\"\n\n\"I don't recall exactly what I said but if you want to find out you have to test William Farwell.\"\n\n\"You're talking about advantageous inclusion, yes?\"\n\n\"Yes.\"\n\n\"And that wouldn't change Matthew Farwell's numbers, right?\"\n\n\"Not by itself, no the numbers won't change.\"\n\nI am told by Google that, \"in genetic testing, the phrase \"advantageous inclusion\" highlights how adding specific Short Tandem Repeat (STR) markers or multiplex loci significantly increases the statistical power, accuracy, and sensitivity of DNA profiling.\""
+    },
+    {
+      "id": "2117675029773058076",
+      "created_at": "2026-11-03T17:47:26Z",
+      "text": "\"Well, we know the defendant is 5% of the mixture, right?\"\n\n\"He is consistent with that yes, if he is present.\"\n\n\"And it's 6.2 trillion times more likely that he is present than not?\"\n\n\"Yes.\"\n\n\"And that is not a low likelihood ratio?\" \n\n\"That is moderate, mid range of the maximum. It can go up 10 orders of magnitude higher.\"\n\n\"6.2 trillion times more likely than not is mid range?\"\n\n\"Yes.\"\n\n\"If you were told you were 6.2 trillion times more likely to win the lottery than not, would you call that mid range odds?\"\n\n\"Objection.\"\n\n\"Withdrawn.\""
+    },
+    {
+      "id": "2117675449409310771",
+      "created_at": "2026-11-03T17:49:06Z",
+      "text": "\"And Ms. Birchmore's right fingernails were not collected until Feb 26, 2021?\"\n\n\"I don't recall the exact date.\"\n\n\"Would seeing the reports help you refresh your recollection?\"\n\n\"Yes.\"\n\n\"Oh, you mean the date the other evidence was collected from her body?\"\n\n\"Yes.\"\n\n\"Then yes, that was Feb 26, 2021.\"\n\n\"And that was 21 days after autopsy  and after Sandra Birchmore's body was processed under non-suspicious death standards?\"\n\n\"Yes.\"\n\n\"Are you aware no one inspected the defendant's body for any fingernail scratches.\"\n\n\"Objection.\"\n\n\"Sustained.\"\n\n\"May I ask in another form your honor?\"\n\n\"No.\""
+    },
+    {
+      "id": "2117675765672099985",
+      "created_at": "2026-11-03T17:50:21Z",
+      "text": "\"Was that the first time, on direct, you ever saw the ligature in person?\"\n\n\"Yes.\"\n\n\"Did anything prevent you from seeing it before today?\"\n\n\"Objection.\"\n\n\"Sustained as to this counsel, next question.\"\n\n\"You were show the ligature and you said it nylon, which is a type of fabric that retains DNA?\"\n\n\"I didn't say that. I said there are textures in that fabric.\""
+    },
+    {
+      "id": "2117676041321783351",
+      "created_at": "2026-11-03T17:51:27Z",
+      "text": "\"Portions of that ligature is smooth right?\"\n\n\"I think a buckle on it would be smooth.\"\n\n\"And that is smooth compared to the nylon part?\"\n\n\"Yes.\"\n\n\"And smoother surfaces can retain DNA to a lesser extent than textured surfaces?\"\n\n\"Yes, typically.\"\n\n\"And you saw the closest doorknob at Sandra Birchmore's apartment was smooth?\"\n\n\"Objection.\"\n\n\"Basis in a word?\"\n\n\"Overruled.\"\n\n\"Can we be heard?\"\n\n\"No on this counsel.\""
+    },
+    {
+      "id": "2117676183219212348",
+      "created_at": "2026-11-03T17:52:01Z",
+      "text": "\"Did you ever visit Ms. Birchmore's apartment?\"\n\n\"No.\"\n\n\"Did you see photos?\"\n\n\"Yes.\"\n\n\"Would you agree with me that the closest door handle is smooth?\"\n\n\"I don't know.\"\n\n\"May I have a moment your honor?\"\n\n\"You may.\""
+    },
+    {
+      "id": "2117676373309370687",
+      "created_at": "2026-11-03T17:52:46Z",
+      "text": "\"Doctor you talked about transfer DNA, and my question is that nothing about your analysis excludes the possibly the a profile consistent with the defendant's DNA ended up there because he used it in a manner consistent with that on Feb 1st, 2021.\"\n\n\"I believe the answer is yes.\"\n\n\"I have nothing further.\""
+    },
+    {
+      "id": "2117676508894667050",
+      "created_at": "2026-11-03T17:53:18Z",
+      "text": "\"Redirect?\"\n\n\"May I examine from here?\"\n\n\"Yes.\"\n\n\"Ms. Prosecutor asked you about Dr. Capo-Martinez?\"\n\n\"Yes.\"\n\nMs. Prosectuor!"
+    },
+    {
+      "id": "2117676559842644305",
+      "created_at": "2026-11-03T17:53:31Z",
+      "text": "Kim Stevens is so shook she forgot Liz Riley's name."
+    },
+    {
+      "id": "2117676842077298805",
+      "created_at": "2026-11-03T17:54:38Z",
+      "text": "\"Was the pink underwear placed in the bag by the medical examiner with the other clothes and then taken out on the 21st and then put in an evidence kit?\"\n\n\"That is what that report says.\"\n\n\"Does Ms. Duvall have a Ph.D. in any field?\"\n\n\"Objection.\"\n\n\"Sustained.\"\n\n\"Doctor have you worked in a scientific field?\" \n\n\"Yes.\"\n\n\"How so?\"\n\n\"I was a bench scientists for 15 years.\""
+    },
+    {
+      "id": "2117676949476647138",
+      "created_at": "2026-11-03T17:55:03Z",
+      "text": "\"The sperm found in Ms. Birchmore's mouth was consistent with Jason Pickard?\"\n\n\"Yes.\"\n\n\"And he is not a female?\"\n\n\"No.\""
+    },
+    {
+      "id": "2117677075738067030",
+      "created_at": "2026-11-03T17:55:34Z",
+      "text": "\"You were asked about whether certain items were possible or impossible, actually, I'm not going to...thank you Doctor, for coming.\""
+    },
+    {
+      "id": "2117677148173410720",
+      "created_at": "2026-11-03T17:55:51Z",
+      "text": "https://t.co/wSSz3HQQd2"
+    },
+    {
+      "id": "2117677290989801493",
+      "created_at": "2026-11-03T17:56:25Z",
+      "text": "Dear God.\n\nTalk about throwing in the towel. https://t.co/bKfuow4ZFE"
+    },
+    {
+      "id": "2117677462989717504",
+      "created_at": "2026-11-03T17:57:06Z",
+      "text": "\"Recross?\"\n\n\"Yes, your honor?\"\n\n\"The ME said she put the underwear in the biological collection kit?\" \n\n\"Yes.\"\n\n\"Nothing further.\"\n\nSir you may step down."
+    },
+    {
+      "id": "2117677570259046594",
+      "created_at": "2026-11-03T17:57:31Z",
+      "text": "The defense calls Angie Christensen!"
+    },
+    {
+      "id": "2117677821917307056",
+      "created_at": "2026-11-03T17:58:31Z",
+      "text": "\"Ms. Daley?\"\n\n\"Good afternoon, what is your name?\"\n\n\"Angie Christensen.\"\n\n\"What is your education?\"\n\n\"A bachelors degree, masters degree and Ph.D. in anthropology.\" \n\n\"Are you a doctor?\"\n\n\"Yes.\"\n\n\"Did you retire from the FBI in 2025?\"\n\n\"Yes.\""
+    },
+    {
+      "id": "2117677909754466600",
+      "created_at": "2026-11-03T17:58:52Z",
+      "text": "\"Where did you work before that?\"\n\n\"I worked at the FBI lab for 25 years doing forensic anthropology.\""
+    },
+    {
+      "id": "2117678164499485020",
+      "created_at": "2026-11-03T17:59:53Z",
+      "text": "The witness explains the FBI lab is accredited."
+    },
+    {
+      "id": "2117678370368729369",
+      "created_at": "2026-11-03T18:00:42Z",
+      "text": "The witness is retired but still certified."
+    },
+    {
+      "id": "2117679275402834119",
+      "created_at": "2026-11-03T18:04:18Z",
+      "text": "\"At some point while at the FBI did you review Sandra Birchmore's death?\"\n\n\"Yes, the FBI Boston Office reached out to me and asked me to asses potential trauma on an isolated hyoid bone.\"\n\n\"And did you end up doing that assessment?\"\n\n\"Yes.\"\n\n\"What steps did you do?\"\n\n\"As to evidence movement?\"\n\n\"The request itself, what item did you look at?\"\n\n\"A hyoid bone.\"\n\n\"Where was it?\"\n\n\"I don't know where it was at that time. It was delivered to my lab by the FBI. My lab was at Quantico.\"\n\n\"How did you receive the bone?\"\n\n\"In a container along with a preservative called formalin and some soft tissue was still associated.\""
+    },
+    {
+      "id": "2117679605402202283",
+      "created_at": "2026-11-03T18:05:37Z",
+      "text": "\"Did you examine the bone at that time?\"\n\n\"No, we used a CT scan because my view was obscured due to the soft tissue.\"\n\n\"Did the formalin impact your visual exam?\"\n\n\"Yes, typically in a forensic anthropology exam, if anything like soft tissue is adhering to the surface, we would normally remove that. In this case, the soft tissue in formalin makes removal of the soft tissue difficult without causing damage to the bone, so I opted for a CT scan.\""
+    },
+    {
+      "id": "2117679924718752151",
+      "created_at": "2026-11-03T18:06:53Z",
+      "text": "\"Is the process for separating soft tissue from bone called maceration?\"\n\n\"Yes.\"\n\n\"Why didn't you do that here?\"\n\n\"Formalin makes that process difficult, so I used a CT scan.\"\n\n\"What did you do next?\"\n\n\"I did a CT scan.\"\n\n\"And what did that show?\"\n\n\"A fracture on the right grater horn of the hyoid bone.\""
+    },
+    {
+      "id": "2117680081913143532",
+      "created_at": "2026-11-03T18:07:30Z",
+      "text": "\"Have you seen such fractures before?\"\n\n\"Yes.\"\n\n\"And where do those commonly occur?\"\n\n\"The mid point of the greater horn.\"\n\n\"Is that where this fracture was here?\"\n\n\"Yes.\"\n\n\"But you didn't author those studies?\"\n\n\"Correct.\""
+    },
+    {
+      "id": "2117680425640333534",
+      "created_at": "2026-11-03T18:08:52Z",
+      "text": "\"What pounds of force is required to break a hyoid bone?\"\n\n\"There is no specific established set amount of force.\"\n\n\"How about age and frequency of hyoid bone fractures?\"\n\n\"Hyoid bone fractures are less common in young people and more common in older people.\"\n\n\"Have studies shown them in younger people?\"\n\n\"Yes.\"\n\n\"One moment your honor?\"\n\n\"Yes.\"\n\n\"Doctor, did you memorialize your conclusions and findings in a report?\"\n\n\"Yes, for the FBI Boston office.\""
+    },
+    {
+      "id": "2117680583879053639",
+      "created_at": "2026-11-03T18:09:30Z",
+      "text": "\"Did you also talk to the US Attorney's Office in Boston?\"\n\n\"Not at that time.\"\n\n\"Did you talk to Dr. Smock?\"\n\n\"Yes. He was one of the ME's who was involved in removal of the hyoid and preserving it.\"\n\n\"You think he was the ME in this case?\"\n\n\"I could be wrong about that.\""
+    },
+    {
+      "id": "2117680668507582782",
+      "created_at": "2026-11-03T18:09:50Z",
+      "text": "Dr. Smock did that work with the ME alongside him. He is not the ME. For the record."
+    },
+    {
+      "id": "2117681257446322514",
+      "created_at": "2026-11-03T18:12:11Z",
+      "text": "\"Doctor, were you asked to testify at the grand jury in this case?\"\n\n\"No.\"\n\n\"Who asked you to testify today?\"\n\n\"Objection, relevance.\"\n\n\"Sustained.\"\n\n\"Doctor, you ID'd the fracture of the hyoid bone as perimortem?\"\n\n\"Yes.\"\n\n\"What is perimortem?\"\n\n\"That means at or around the time of death, but we use the term different in my field, we only examine bone tissue, not surrounding soft tissue or skin, just the bones, so we can only tell whether a fracture occurred when the bone was in a biomechanically fresh state, when it has collagen and moisture, the same fracture properties as a living person. Those can exist for a significant time after the death event depending on the preservation of the body.\""
+    },
+    {
+      "id": "2117681346390700482",
+      "created_at": "2026-11-03T18:12:32Z",
+      "text": "\"And where was the fracture of the hyoid bone?\"\n\n\"The right greater horn.\"\n\n\"Nothing further.\"\n\n\"Cross.\"\n\n\"Very briefly.\""
+    },
+    {
+      "id": "2117681773983207697",
+      "created_at": "2026-11-03T18:14:14Z",
+      "text": "\"You worked for years at the FBI?\"\n\n\"Yes.\"\n\n\"And the best way to look at a bone is to inspect it yourself?\"\n\n\"Yes.\"\n\n\"In your role, you said you assisted the FBI of doing scans of Ms. Birchmore's hyoid bone in Late 2024?\"\n\n\"I don't recall but it must have been before October, 2025.\"\n\n\"And you did the scans?\"\n\n\"Well, we borrow a scan from the Huntsville lab, but yes.\"\n\n\"And you found trauma of the hyoid bone?\"\n\n\"Yes.\"\n\n\"And that was the right sided fracture of the hyoid bone?\"\n\n\"Yes.\"\n\n\"Were you aware a hyoid bone fracture had been detected before your scans?\"\n\n\"I don't know how I learned that information, but yes, I recall there was trauma.\""
+    },
+    {
+      "id": "2117682165093638643",
+      "created_at": "2026-11-03T18:15:47Z",
+      "text": "\"Doctor, this is one of the scans your lab took (this is exhibit 316)?\"\n\n\"Yes.\"\n\n\"And you have reveiwed 1000's of scans?\"\n\n\"A lot, yes.\"\n\n\"Sometimes a fracture can be difficult to call?\"\n\n\"It can be.\"\n\n\"This one was not?\"\n\n\"Not in this case, it was father apparent.\"\n\n\"And Ms. Birchmore's hyoid bone was unfused?\"\n\n\"Yes.\"\n\n\"And that information is important?\"\n\n\"Yes.\"\n\n\"Because unfused hyoid bones are more flexible?\"\n\n\"Yes.\"\n\n\"And thus less likely to break?\"\n\n\"Yes.\"\n\n\"And unfused hyoid bones are more common in younger people?\"\n\n\"Yes.\""
+    },
+    {
+      "id": "2117682320819798255",
+      "created_at": "2026-11-03T18:16:24Z",
+      "text": "\"Were there any signs the bone was broken before Ms. Birchmore's death?\"\n\n\"No.\"\n\n\"What about post mortem?\"\n\n\"No, but perimortem is less specific in my field. Not post mortem though.\""
+    },
+    {
+      "id": "2117682485328843139",
+      "created_at": "2026-11-03T18:17:03Z",
+      "text": "\"The most common cause of a hyoid bone being broken is strangulation?\"\n\n\"According to the literature I reviewed, yes.\"\n\n\"Nothing further.\""
+    },
+    {
+      "id": "2117682736291065946",
+      "created_at": "2026-11-03T18:18:03Z",
+      "text": "\"Redirect?\"\n\n\"Briefly.\"\n\n\"Did you provide your FBI report notes?\"\n\n\"Yes.\"\n\n\"Ms. Riley asked you if strangulation is the most common form of hyoid fracture?\"\n\n\"Yes.\"\n\n\"But it also occurs in hangings?\"\n\n\"Yes.\"\n\n\"But younger individuals can also suffer from a broken hyoid bone?\"\n\n\"Yes but I don't recall the exact age.\""
+    },
+    {
+      "id": "2117683086234443941",
+      "created_at": "2026-11-03T18:19:27Z",
+      "text": "\"And when it came to your ability to examine the hyoid bone physically, that was derailed by the adhesion of the tissue, fair to say?\"\n\n\"Objection, scope.\"\n\n\"I'll allow this question.\"\n\n\"Can you rephrase?\" - Witness\n\n\"It's a bad question. I'll reask.\"\n\n\"You relied on the CT scans?\"\n\n\"Yes.\"\n\n\"And you emailed with the FBI and Dr. Smock?\"\n\n\"Objection. Scope.\"\n\n\"Outside the scope of cross, next question counsel.\""
+    },
+    {
+      "id": "2117683320427270174",
+      "created_at": "2026-11-03T18:20:22Z",
+      "text": "\"Nothing further your honor.\"\n\n\"Any recross?\"\n\n\"One question, your honor; in no studies you provided did you find a young person with a broken hyoid bone from a seated hanging?\"\n\n\"I didn't specifically review the literature so I don't know.\"\n\n\"Nothing further, thank you.\"\n\n\"You are excused.\"\n\nSidebah!"
+    },
+    {
+      "id": "2117683738868113899",
+      "created_at": "2026-11-03T18:22:02Z",
+      "text": "\"Jurors, as I shared with you, we are done with the day, so we'll let you go. Tomorrow, Wednesday, expect a full day. Expect the evidence will close tomorrow. It will still be the case, on Friday, that we will give you the case. We will not sit on Thursday. Your deliberations will begin Friday.\""
+    },
+    {
+      "id": "2117683772082860271",
+      "created_at": "2026-11-03T18:22:10Z",
+      "text": "\"Jurors, as I shared with you, we are done with the day, so we'll let you go. Tomorrow, Wednesday, expect a full day. Expect the evidence will close tomorrow. It will still be the case, on Friday, that we will give you the case. We will not sit on Thursday. Your deliberations will begin Friday.\""
+    },
+    {
+      "id": "2117683817481658746",
+      "created_at": "2026-11-03T18:22:21Z",
+      "text": "\"All rise for the jury!\""
+    },
+    {
+      "id": "2117684244625707224",
+      "created_at": "2026-11-03T18:24:03Z",
+      "text": "\"Counsel...everyone can be seated. Counsel, I think we addressed most of the matters for tomorrow in terms of scheduling. In terms of the two witnesses expected. Just a few housekeeping matters, the first is I think I said previously at some point tomorrow after we finish it is my practice to have both sides certify to Ms. Cook that the exhibits are in order so there is no delay getting them to the jury after closings finish so please be prepared top do that.\""
+    },
+    {
+      "id": "2117684472841633909",
+      "created_at": "2026-11-03T18:24:57Z",
+      "text": "\"Jurors will also get my charge and the verdict form in hard copy and digitally. Counsel, on logistics, because I am not exactly sure where we're going to break tomorrow, I may do the colloquy that I mentioned to you earlier in the day, understanding that issue will be reserved right until you rest. I ask that you ask for a sidebah right before you rest so I can review.\""
+    },
+    {
+      "id": "2117684560536256753",
+      "created_at": "2026-11-03T18:25:18Z",
+      "text": "Wow. Matthew Farwell will make the call, tomorrow, as to whether he will testify, right before the defense rests.\n\n\"Jurors will also get my charge and the verdict form in hard copy and digitally. Counsel, on logistics, because I am not exactly sure where we're going to break tomorrow, I may do the colloquy that I mentioned to you earlier in the day, understanding that issue will be reserved right until you rest. I ask that you ask for a sidebah right before you rest so I can review.\""
+    },
+    {
+      "id": "2117684783824183577",
+      "created_at": "2026-11-03T18:26:11Z",
+      "text": "\"Counsel, I reviewed docket 390, the defense motion to reconsider, to the extent that Mr. Farwell is preserving his objection to my ruling after significant briefing and argument in the final pre-trial conferences of this matter and so I won't repeat everything I've said on the record. I deny the motion. Your objection is preserved though.\""
+    },
+    {
+      "id": "2117686030539141370",
+      "created_at": "2026-11-03T18:31:09Z",
+      "text": "\"I do want to turn to the rule 106 argument though, and the completeness of statements that the government offered. Counsel I can only address the objections when they are raised, and I did address that when it was raised. I did also not allow in some statements under 106. To the extent that there is some other argument about affirmative offers in the defense case, have those offers been made to me?\"\n\n\"Well your honor, as the court knows, the government moved in Ms. Birchmore's IPhone 12 and then through Special agent Kelsch testified to many texts between Ms. Birchmore and Mr. Farwell and others. I think we were not allowed to do the same, and while the government argues that the defendant cannot benefit from his own wrong doing, and while that is true, once those statements have been admitted, then the defendant can admit other statements made by that same declarant in defense of his case. We would ask, through Mr. Loper, to be able to introduce her statements. Nothing in 804 b 6 stops us.\"\n\n\"Well, it's hearsay. 804 b 6 is an exception, and it's offered against rather than by the party, so I'm not sure it falls into another exemption, and even setting that aside, without more context, I can't say it is 106. That applies to add context not to add statements from other situations.\"\n\n\"Well, your honor, the government introduced the choking texts, over 1006 objection, but every text of the exhibit is just a statement from the defendant, not any replies. We would like to put in a fuller recitation of those exchanges and other exchanges between Ms. Birchmore and others.\"\n\n\"It's a 106 not 1006 argument?\"\n\n\"Yes, your honor. And, also, some 803 exceptions apply here. State of mind, ideation, plan, may also impeach some statements.\"\n\n\"Right, but the relevance and the hearsay are two different things?\"\n\n\"I agree your honor, but here we have impeachment evidence offered for their truth. Ms. Birchmore says she did not engage in vaginal sex on pelvic rest but we have evidence to refute her.\""
+    },
+    {
+      "id": "2117687027172860309",
+      "created_at": "2026-11-03T18:35:06Z",
+      "text": "\"Counsel, from the government?\"\n\n\"Your honor, they have put forward no specific texts as of now. I suspect we'll get a long list tonight. If they have specific objections they can raise them. As to the choking, there is no allegation that the choking conduct was non consensual and in a sense, right, the government introduced those texts to show that he had access on Feb 1st to her ot kill her without her suspecting it. Without the prior consensual texts, the rest of the material is 412 content. It is designed by the defense to talk about Ms. Birchmore's sexual conduct and that is not relevant. The argument that 804 b6 should be used to allow the defense to introduce contractor statements by Ms. Birchmore, the rule does not allow this. The defendant cannot benefit from his own wrongdoing. If there are other exceptions to the hearsay rule, they can offer them, which they haven't done yet, but if they do we can address them.\"\n\n\"Counsel, it's hard for me to make rulings when I don't know what statements we're talking about, but I do think it is has to be true 106 material and putting that aside, and if there's no 106 on the table, then a hearsay exception has to apply and here 804 b 6 would not apply and you know looming in the background of all of this is 412, at least on one of the topics you mentioned, so counsel the more notice I have to consider these issues, the better, so if you want to identify any particular exhibits or give me some 106 context I'll think about.\"\n\n\"Thanks your honor.\"\n\n\"As to 390, denied in part to the extent that it wanted my 804 b 6 ruling revisited. Denied to the extent it is talking about statements not yet presented to me. I'll reserve on the rest.\""
+    },
+    {
+      "id": "2117687262762967262",
+      "created_at": "2026-11-03T18:36:02Z",
+      "text": "\"As to docket 389, allowed in part and denied in part from earlier. Counsel, as to the charge, do you have that case Ms. Daley?\"\n\nI do!\n\nhttps://t.co/6mbBcTxw15"
+    },
+    {
+      "id": "2117687495223869762",
+      "created_at": "2026-11-03T18:36:58Z",
+      "text": "\"Okay, anything else, counsel?\"\n\n\"No, your honor.\"\n\n\"Can we just put s-14 into the record but not in evidence, for purposes of appellate review?\"\n\n\"Yes. Counsel if there's nothing else, we'll stand in recess, I'll see you tomorrow.\"\n\nWe are done!"
+    },
+    {
+      "id": "2117687815236718745",
+      "created_at": "2026-11-03T18:38:14Z",
+      "text": "What a wild day!\n\nGod bless you all! \n\nThank you for your support of my work!\n\nDonation information below;\n\nVenmo: https://t.co/aS1seZFGwv\n\nPaypal = https://t.co/T02firu36i https://t.co/OCJhkZKeio"
+    },
+    {
+      "id": "2117696930901872766",
+      "created_at": "2026-11-03T19:14:27Z",
+      "text": "Damn it, @KyleSharkey8, why am I here. https://t.co/lgKiixB2UO"
+    },
+    {
+      "id": "2117700324781703668",
+      "created_at": "2026-11-03T19:27:57Z",
+      "text": "Wow!\n\nKaren Read and journalist Aidan @DoctorTurtleboy Kearney WON their motion at the appeals court to consolidate their appeals of Judge Gildea's denial of Aidan and Karen's respective motion to dismiss under the anti-slapp law.\n\nStronger together, indeed\n\nStay incoming? https://t.co/OhGLDCSCvF"
+    },
+    {
+      "id": "2117713127382921353",
+      "created_at": "2026-11-03T20:18:49Z",
+      "text": "Sandra Birchmore And Matthew Farwell Trial Week 4 + Karen Read/@DoctorTurtleBoy HAM Appeal Consolidated!\n\n4:15PM ET\n\nhttps://t.co/Dc7ggSg81j"
+    }
+  ],
+  "seed_candidate_sources": [
+    {
+      "source": "time_window_corpus",
+      "unique_statuses": 230,
+      "original_statuses": 211
+    }
+  ],
+  "ancestry": {
+    "root_id": "2117616281251979716",
+    "root_created_at": "2026-11-03T13:53:59Z",
+    "seed_id": "2117687815236718745",
+    "seed_created_at": "2026-11-03T18:38:14Z",
+    "chunks": [
+      {
+        "chunk": 1,
+        "focal_id": "2117687815236718745",
+        "raw_records": 100,
+        "ancestry_records": 100,
+        "oldest_id": "2117646446149169248",
+        "oldest_created_at": "2026-11-03T15:53:51Z",
+        "oldest_parent": "2117646021505212761",
+        "raw_file": "GrantSmithEllis_2026-11-03_parentchain_01_focal_2117687815236718745.jsonl",
+        "command": "C:\\Users\\wolfk\\Desktop\\Tweet Pulls\\x.exe thread 2117687815236718745 --tier syndication --limit 100 -o jsonl"
+      },
+      {
+        "chunk": 2,
+        "focal_id": "2117646021505212761",
+        "raw_records": 95,
+        "ancestry_records": 95,
+        "oldest_id": "2117616281251979716",
+        "oldest_created_at": "2026-11-03T13:53:59Z",
+        "oldest_parent": null,
+        "raw_file": "GrantSmithEllis_2026-11-03_parentchain_02_focal_2117646021505212761.jsonl",
+        "command": "C:\\Users\\wolfk\\Desktop\\Tweet Pulls\\x.exe thread 2117646021505212761 --tier syndication --limit 100 -o jsonl"
+      }
+    ]
+  },
+  "validation": {
+    "status": "PASS",
+    "problems": []
+  },
+  "csv_derivative": {
+    "encoding": "utf-8-sig",
+    "identifier_encoding": "controlled Excel-safe formula string for numeric IDs",
+    "formula_injection_protection": "untrusted text beginning =,+,-,@ is prefixed with apostrophe",
+    "authoritative_format": "JSONL"
+  },
+  "files": [
+    {
+      "path": "GrantSmithEllis_2026-11-03_canonical.csv",
+      "bytes": 142816,
+      "sha256": "9c6c4432a053915e393540d5cddc217c7a3e44d5d227df7ecaa597e43fa95f36"
+    },
+    {
+      "path": "GrantSmithEllis_2026-11-03_canonical.jsonl",
+      "bytes": 1259449,
+      "sha256": "2e06f8d410b030c2617116655d6bd273b5d16fce317c53ea6b2f9d87314bcf8b"
+    },
+    {
+      "path": "GrantSmithEllis_2026-11-03_reconciliation_report.md",
+      "bytes": 53312,
+      "sha256": "30e0306e05a4b558816953739f80e83c69f6e063e218570eea67d7b4ce5365d3"
+    },
+    {
+      "path": "raw/GrantSmithEllis_2026-11-03_window_query.jsonl",
+      "bytes": 1178636,
+      "sha256": "2c564732a9462ec3b4a0e386d32e0d1e2f61643e4cb4f991a76c0dfb29b5a078"
+    },
+    {
+      "path": "raw/parent_chunks/GrantSmithEllis_2026-11-03_parentchain_01_focal_2117687815236718745.jsonl",
+      "bytes": 127246,
+      "sha256": "9b1368bde07c433aa144da5869969e208e5fea7026f11cf67b1210db8e06c999"
+    },
+    {
+      "path": "raw/parent_chunks/GrantSmithEllis_2026-11-03_parentchain_02_focal_2117646021505212761.jsonl",
+      "bytes": 117457,
+      "sha256": "f93e675d19f50d5f5bcee42378712403031841ff514f955526ecf0d0bb3f80c9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3443,
+      "sha256": "e1aac881c1a58277f5f41ca7543127a2858e6c3c812520df9ec5eddbfc0e04c1"
+    },
+    {
+      "path": "recovery/GrantSmithEllis_2026-11-03_ancestry_only.csv",
+      "bytes": 184,
+      "sha256": "511d6e3fd0d3fc83cf7ca24e335db3fc91a288b154edb4766327e65f032ae316"
+    },
+    {
+      "path": "recovery/GrantSmithEllis_2026-11-03_both.csv",
+      "bytes": 128615,
+      "sha256": "6f3c3d4b8713fa0d98339db276be5b34645c87e452f9772e4734f464ad7bf359"
+    },
+    {
+      "path": "recovery/GrantSmithEllis_2026-11-03_window_only.csv",
+      "bytes": 13908,
+      "sha256": "5edb746073f561f95af10c08014a13fc195c20f55f1d9154cd3ebb117ae0e36e"
+    },
+    {
+      "path": "structure/GrantSmithEllis_2026-11-03_ancestry.csv",
+      "bytes": 91970,
+      "sha256": "eb1765d8c20dca39b01ac0d7c3a01cde91f7051e6b5fcc8a63205b815dbe2dfc"
+    },
+    {
+      "path": "structure/GrantSmithEllis_2026-11-03_ancestry.jsonl",
+      "bytes": 282796,
+      "sha256": "bff7d4f01e219ccab4c50988f110c5240080f65768540e30abdcb2bf56db2741"
+    }
+  ]
+}
